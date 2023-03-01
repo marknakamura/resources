@@ -195,7 +195,8 @@
   - https://www.oreilly.com/library/view/learn-python-the/9780133124316/
 - Postman Learning
   - https://learning.postman.com/
-- 
+- A Self-Learning, Modern Computer Science Curriculum
+  - https://functionalcs.github.io/curriculum/
 
 ### **Certifications**
 - CCCure - Computer-Based Tutorials, MP3 Files, Practice Quizzes
