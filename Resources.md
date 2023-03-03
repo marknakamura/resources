@@ -583,7 +583,7 @@
   - https://github.com/KushagraKarira/Debloat
 - Microsoft PowerToys - set of utilities for power users to tune and streamline their Windows experience for greater productivity
   - https://docs.microsoft.com/en-us/windows/powertoys/
-- NIST 800 & 1800 Technical Series Publication Database
+- NIST 800 & 1800 Technical Series Publication Database 
   - https://elysium-core.notion.site/NIST-800-1800-Technical-Series-Publication-Database-44cd1ddc1bc240bd9dee7da574776889
 
 ## **System Administration**
