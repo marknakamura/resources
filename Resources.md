@@ -197,6 +197,10 @@
   - https://learning.postman.com/
 - A Self-Learning, Modern Computer Science Curriculum
   - https://functionalcs.github.io/curriculum/
+- C# for n00bs - An introduction to C# fundamentals
+  - https://training.zeropointsecurity.co.uk/courses/csharp-for-n00bs
+- Rust for n00bs - An introduction to Rust fundamentals
+  - https://training.zeropointsecurity.co.uk/courses/rust-for-n00bs
 
 ### **Certifications**
 - CCCure - Computer-Based Tutorials, MP3 Files, Practice Quizzes
