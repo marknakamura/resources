@@ -10,6 +10,7 @@
   - [Big Data](#big-data)
 - [Training](#training)
   - [Cyber Security](#cyber-security)
+  - [Cloud Training](#cloud-training)
   - [Microsoft](#microsoft)
   - [CTFs (Capture the Flag)](#ctfs-capture-the-flag)
   - [Walkthroughs](#walkthroughs)
@@ -46,7 +47,8 @@
 ### **Books**
 - Building Virtual Machine Labs: A Hands-On Guide
   - https://www.amazon.com/Building-Virtual-Machine-Labs-Hands/dp/1546932631
-- 
+- Detecting Fake Events in Azure Sign-in Logs
+  - https://www.inversecos.com/2023/01/detecting-fake-events-in-azure-sign-in.html
 
 ### **Online Articles & Blogs**
 - DFIR and Threat Hunting
@@ -100,6 +102,12 @@
   - https://threathunterz.com/posts/
   - https://theway.threathunterz.com/docs/index.html
   - https://threathunterz.com/posts/breaking-threat-hunting-part-1/
+- New Windows 11 Pro (22H2) Evidence of Execution Artifact!
+  - https://aboutdfir.com/new-windows-11-pro-22h2-evidence-of-execution-artifact/
+- From Registry With Love: Malware Registry Abuses
+  - https://www.splunk.com/en_us/blog/security/from-registry-with-love-malware-registry-abuses.html
+- Deceiving Defender: The Big Stack Bypass
+  - https://steve-s.gitbook.io/0xtriboulet/deceiving-defender/deceiving-defender-the-big-stack-bypass
 
 ### **Videos**
 - MITRE ATT&CK: The Play at Home Edition
@@ -203,10 +211,17 @@
 - Antisyphon Pay What You Can - In order to help more people get started in their InfoSec journey, a select group of our courses are priced on a pay scale. This gives students an opportunity to take hands-on, cutting-edge courses by well-known names in the community, regardless of their financial position.
   - https://www.antisyphontraining.com/pay-what-you-can/
 
+
+### **Cloud Training**
+- AWS CIRT announces the release of five publicly available workshops
+  - https://aws.amazon.com/blogs/security/aws-cirt-announces-the-release-of-five-publicly-available-workshops/
+- 
+
 ### **Microsoft**
 - Microsoft Learning
   - https://docs.microsoft.com/en-us/learn/
-- 
+- GCP - Chronicle Learning Portal
+  - https://learn.chronicle.security/
 
 ### **CTFs (Capture the Flag)**
 
@@ -300,6 +315,12 @@
   - https://gist.github.com/tothi/f89a37127f2233352d74eef6c748ca25
 - Red-Teaming-Toolkit - This repository contains cutting-edge open-source security tools (OST) that will help you during adversary simulation and as information intended for threat hunter can make detection and prevention control easier.
   - https://github.com/infosecn1nja/Red-Teaming-Toolkit
+- Windows Event Log Cheat Sheet
+  - https://www.13cubed.com/downloads/windows_event_log_cheat_sheet.pdf
+- KeyDecoder - KeyDecoder is a mobile app created for pentesters and security enthusiasts. From the picture of a key, one can measure its bitting easily.
+  - https://github.com/MaximeBeasse/KeyDecoder
+- Decider - A web application that assists network defenders, analysts, and researcher in the process of mapping adversary behaviors to the MITRE ATT&CK® framework
+  - https://github.com/cisagov/Decider/
 
 ### **Blue Team**
 - HFish Honeypot Platform
@@ -480,6 +501,11 @@
   - https://honeydb.io/deploy
 - Threatest - a Go framework for end-to-end testing of threat detection rules
   - https://securitylabs.datadoghq.com/articles/threatest-end-to-end-testing-threat-detection/
+- Magnet Forensics - Free Digital Forensics Tools Every Investigator Needs
+  - https://www.magnetforensics.com/blog/free-digital-forensics-tools-every-investigator-needs/?utm_source=LinkedIn&utm_medium=Organic&utm_campaign=2022_AXIOM_Social
+- Antivirus Event Analysis Cheat Sheet v1.11.0
+  - https://www.nextron-systems.com/2023/01/13/antivirus-event-analysis-cheat-sheet-v1-11-0/
+- 
 - 
 
 ### **Cloud**
@@ -487,7 +513,8 @@
   - https://nextcloud.com
 - Vultr - IaaS (Infrastructure as a Service)
   - https://www.vultr.com/pricing/
-- 
+- Azure AD Incident Response PowerShell Module
+  - https://github.com/AzureAD/Azure-AD-Incident-Response-PowerShell-Module
 
 ### **Automation & Containers**
 - Apache Airflow
