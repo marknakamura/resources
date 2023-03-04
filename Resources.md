@@ -6,6 +6,14 @@
   - [Videos](#videos)
   - [Podcasts](#podcasts)
   - [Big Data](#big-data)
+- [Training](#training)
+  - [Cyber Security](#cyber-security)
+  - [Microsoft](#microsoft)
+  - [CTFs (Capture the Flag)](#ctfs-capture-the-flag)
+  - [Walkthroughs](#walkthroughs)
+  - [Coding](#coding)
+  - [Certifications](#certifications)
+- [Tools](#tools)
 
 - Book of Secret Knowledge - Inspiring Lists, the biggest collection of resources
   - https://github.com/trimstray/the-book-of-secret-knowledge#inspiring-lists-toc
