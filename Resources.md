@@ -1,5 +1,7 @@
 # **Resources**
 
+[Reading, Watching, & Listening](#reading-watching--listening)
+
 - Book of Secret Knowledge - Inspiring Lists, the biggest collection of resources
   - https://github.com/trimstray/the-book-of-secret-knowledge#inspiring-lists-toc
 - InfoSec-Black-Friday - All the deals for InfoSec related software/tools this Black Friday / Cyber Monday, for all the hackers that saved $$$ during lockdowns
