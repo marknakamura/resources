@@ -1,5 +1,5 @@
 # **Resources**
-
+- [General](#general)
 - [Reading, Watching, & Listening](#reading-watching--listening)
   - [Books](#books)
   - [Online Articles & Blogs](#online-articles--blogs)
@@ -14,7 +14,26 @@
   - [Coding](#coding)
   - [Certifications](#certifications)
 - [Tools](#tools)
-
+  - [Red Team](#red-team)
+  - [Blue Team](#blue-team)
+  - [Cloud](#cloud)
+  - [Automation & Containers](#automation--containers)
+  - [Vulnerability](#vulnerability)
+  - [Cryptography](#cryptography)
+  - [Coding Utilities](#coding-utilities)
+  - [OSINT (Open Source Intelligence)](#osint-open-source-intelligence)
+  - [Miscellaneous](#miscellaneous)
+- [System Administration](#system-administration)
+  - [Linux](#linux)
+  - [Microsoft Documentation](#microsoft-documentation)
+  - [Directory Tools](#directory-tools)
+  - [Web](#web)
+- [Network Administration](#network-administration)
+  - [Emulation & Training](#emulation--training)
+- [Fun Projects](#fun-projects)
+- [Twitter Handles to Follow](#twitter-handles-to-follow)
+ 
+## **General**
 - Book of Secret Knowledge - Inspiring Lists, the biggest collection of resources
   - https://github.com/trimstray/the-book-of-secret-knowledge#inspiring-lists-toc
 - InfoSec-Black-Friday - All the deals for InfoSec related software/tools this Black Friday / Cyber Monday, for all the hackers that saved $$$ during lockdowns
