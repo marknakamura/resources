@@ -1,6 +1,11 @@
 # **Resources**
 
 [Reading, Watching, & Listening](#reading-watching--listening)
+  [Books](#books)
+  [Online Articles & Blogs](#online-articles--blogs)
+  [Videos](#videos)
+  [Podcasts](#podcasts)
+  [Big Data](#big-data)
 
 - Book of Secret Knowledge - Inspiring Lists, the biggest collection of resources
   - https://github.com/trimstray/the-book-of-secret-knowledge#inspiring-lists-toc
