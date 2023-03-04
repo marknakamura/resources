@@ -1,4 +1,6 @@
 # **Resources**
+
+# **Table of Contents**
 - [General](#general)
 - [Reading, Watching, & Listening](#reading-watching--listening)
   - [Books](#books)
