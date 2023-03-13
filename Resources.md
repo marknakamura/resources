@@ -108,6 +108,8 @@
   - https://www.splunk.com/en_us/blog/security/from-registry-with-love-malware-registry-abuses.html
 - Deceiving Defender: The Big Stack Bypass
   - https://steve-s.gitbook.io/0xtriboulet/deceiving-defender/deceiving-defender-the-big-stack-bypass
+- Rust for Pentesters
+  - https://youtu.be/KnDQydU1Qn0
 
 ### **Videos**
 - MITRE ATT&CK: The Play at Home Edition
@@ -321,6 +323,28 @@
   - https://github.com/MaximeBeasse/KeyDecoder
 - Decider - A web application that assists network defenders, analysts, and researcher in the process of mapping adversary behaviors to the MITRE ATT&CK® framework
   - https://github.com/cisagov/Decider/
+- BBOT - Bighuge BLS OSINT Tool - OSINT automation for hackers
+  - https://github.com/blacklanternsecurity/bbot
+- PostDump - C# tool to perform LSASS memory dump using few techniques to avoid detection
+  - https://github.com/post-cyberlabs/Offensive_tools/tree/main/PostDump
+- DROPS - dynamic cheat sheet for adversary tools
+  - https://sygnialabs.github.io/DROPS/
+- Havoc - modern and malleable post-exploitation command and control framework
+  - https://github.com/HavocFramework/Havoc
+- Harvis - designed to automate your C2 infrastructure, currently using Mythic C2
+  - https://github.com/thiagomayllart/Harvis
+- Stratus Red Team - Datadog, "Atomic Red Team" for the cloud, allowing to emulate offensive attack techniques in a granular and self-contained manner
+  - https://github.com/Datadog/stratus-red-team/
+- PrivFu - Kernel mode WinDbg extension and PoCs for testing how token privileges work
+  - https://github.com/daem0nc0re/PrivFu
+- Red Teaming Toolkit - Repository which contains cutting-edge open-source security tools that will help you during adversary simulation and as information intended for threat hunters to make detection and prevention easier
+  - https://github.com/infosecn1nja/Red-Teaming-Toolkit
+- SyscallPack - Beacon Object File and Shellcode for full DLL unhooking
+  - https://github.com/cube0x0/SyscallPack
+- SysWhispers3 - helps with evasion by generating header/ASM files implants can use to make direct system calls
+  - https://github.com/klezVirus/SysWhispers3
+- Inceptor - modern penetration testing and Red Teaming oftern requires to bypass common AV/EDR appliances in order to execute code on a target; Inceptor is a tool which can help to automate great part of this process
+  - https://github.com/klezVirus/inceptor
 
 ### **Blue Team**
 - HFish Honeypot Platform
@@ -505,8 +529,13 @@
   - https://www.magnetforensics.com/blog/free-digital-forensics-tools-every-investigator-needs/?utm_source=LinkedIn&utm_medium=Organic&utm_campaign=2022_AXIOM_Social
 - Antivirus Event Analysis Cheat Sheet v1.11.0
   - https://www.nextron-systems.com/2023/01/13/antivirus-event-analysis-cheat-sheet-v1-11-0/
-- 
-- 
+- Kestrel - threat hunting language aiming to make cyber threat hunting fast by providing a layer of abstraction to build reusable, composable, and shareable hunt-flow
+  - https://github.com/opencybersecurityalliance/kestrel-lang
+- rOSac - routerOS Artifact Collector - simple tool designed for incident response on potentially compromised routerOS products
+  - https://github.com/Linkavych/rOSac
+- TheHive - scalable Security Incident Response Platform, tightly integrated with MISP designed to make life easier for SOCs, CSIRTs, CERTs, and any information security practitioner dealing with security incidents that need to be investigated and acted upon swiftly
+  - http://thehive-project.org/
+  - https://docs.strangebee.com/thehive/download/
 
 ### **Cloud**
 - Nextcloud
@@ -648,6 +677,8 @@
   - https://docs.microsoft.com/en-us/windows/powertoys/
 - NIST 800 & 1800 Technical Series Publication Database 
   - https://elysium-core.notion.site/NIST-800-1800-Technical-Series-Publication-Database-44cd1ddc1bc240bd9dee7da574776889
+- ConwaysLife - Conway's game of life is a cellular automation game simply known as Life
+  - https://github.com/AleksaZatezalo/ConwaysLife
 
 ## **System Administration**
 
