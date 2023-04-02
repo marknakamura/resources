@@ -41,6 +41,8 @@
   - https://github.com/trimstray/the-book-of-secret-knowledge#inspiring-lists-toc
 - InfoSec-Black-Friday - All the deals for InfoSec related software/tools this Black Friday / Cyber Monday, for all the hackers that saved $$$ during lockdowns
   - https://github.com/0x90n/InfoSec-Black-Friday
+- Roadmap.sh - community effort to create roadmaps, guides and other educational content to help guide the developers in picking up the path and guide their learnings (includes cyber security)
+  - https://roadmap.sh/
 
 ## **Reading, Watching, & Listening**
 
@@ -217,7 +219,17 @@
 ### **Cloud Training**
 - AWS CIRT announces the release of five publicly available workshops
   - https://aws.amazon.com/blogs/security/aws-cirt-announces-the-release-of-five-publicly-available-workshops/
-- 
+- SANS Cloud Free Tools
+  - https://www.sans.org/cloud-security/tools/?msc=cloud-security-lp
+- SANS Cloud Free Posters
+  - https://www.sans.org/posters/?focus-area=cloud-security&msc=cloud-security-lp
+- SANS Cloud Webinars
+  - https://www.sans.org/webcasts/?webcast-type&focus-area=cloud-security&msc=cloud-security-lp
+- SANS Cloud Courses
+  - https://www.sans.org/cyber-security-courses/?focus-area=cloud-security&msc=cloud-security-lp
+- Google Chronicle Learning Portal
+  - https://learn.chronicle.security/
+
 
 ### **Microsoft**
 - Microsoft Learning
@@ -536,6 +548,8 @@
 - TheHive - scalable Security Incident Response Platform, tightly integrated with MISP designed to make life easier for SOCs, CSIRTs, CERTs, and any information security practitioner dealing with security incidents that need to be investigated and acted upon swiftly
   - http://thehive-project.org/
   - https://docs.strangebee.com/thehive/download/
+- Snort-Rules - A nice nollection of Snort 2 and 3 Rules. Includes community edition and snapshot clone of another Github repository.
+  - https://github.com/thereisnotime/Snort-Rules
 
 ### **Cloud**
 - Nextcloud
