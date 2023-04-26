@@ -550,6 +550,8 @@
   - https://docs.strangebee.com/thehive/download/
 - Snort-Rules - A nice nollection of Snort 2 and 3 Rules. Includes community edition and snapshot clone of another Github repository.
   - https://github.com/thereisnotime/Snort-Rules
+- gVisor - The Container Security Platform
+  - https://gvisor.dev/docs/
 
 ### **Cloud**
 - Nextcloud
@@ -728,6 +730,12 @@
   - https://packetlife.net/library/cheat-sheets/
 - Hurricane Electric - Internet Backbone and Colocation Provider
   - http://he.net/
+- The Illustrated TLS 1.2 Connection - Every byte explained and reproduced
+  - https://tls12.xargs.org/
+- The Illustrated TLS 1.3 Connection - Every byte explained and reproduced
+  - https://tls13.xargs.org/
+- Cisco Joy - A package for capturing and analyzing network flow data and intraflow data, for network research, forensics, and security monitoring
+  - https://github.com/cisco/joy
 
 ## **Fun Projects**
 - XKCD Password Generator - Flexible and scriptable strong password generator
