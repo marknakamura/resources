@@ -43,6 +43,8 @@
   - https://github.com/0x90n/InfoSec-Black-Friday
 - Roadmap.sh - community effort to create roadmaps, guides and other educational content to help guide the developers in picking up the path and guide their learnings (includes cyber security)
   - https://roadmap.sh/
+- Guide to Detecting Ransomware as a Service - A comprehensive guide to detecting Ransomware-as-a-Service using Logpoint
+  - https://www.logpoint.com/en/blog/guide-to-detecting-ransomware-as-a-service/
 
 ## **Reading, Watching, & Listening**
 
@@ -552,6 +554,11 @@
   - https://github.com/thereisnotime/Snort-Rules
 - gVisor - The Container Security Platform
   - https://gvisor.dev/docs/
+- rcmatrix - The Ransomware Control Matrix (RCX) is a comprehensive framework designed to help organizations protect against ransomware attacks. It provides a structured approach to identifying and implementing effective controls at different levels of maturity, from foundational to elite, and includes both detection and mitigation controls.
+  - https://rcxmatrix.org/
+- NoMoreRansom - The battle is over for these ransomware threats. If you have been infected with one of these types of ransomware click on the link under its name and it will lead you to a decryption tool.
+  - https://www.nomoreransom.org/
+- 
 
 ### **Cloud**
 - Nextcloud
