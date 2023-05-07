@@ -757,6 +757,10 @@
   - https://elysium-core.notion.site/NIST-800-1800-Technical-Series-Publication-Database-44cd1ddc1bc240bd9dee7da574776889
 - ConwaysLife - Conway's game of life is a cellular automation game simply known as Life
   - https://github.com/AleksaZatezalo/ConwaysLife
+- Fake Name Generator
+  - https://www.fakenamegenerator.com/gen-random-us-nl.php
+- Big Ass data Broker Opt Out List
+  - https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List
 
 ## **System Administration**
 
