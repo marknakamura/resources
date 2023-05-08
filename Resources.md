@@ -20,6 +20,7 @@
 - [Tools](#tools)
   - [Red Team](#red-team)
   - [Blue Team](#blue-team)
+  - [Ransomware-Specific](#ransomware-specific)
   - [Cloud](#cloud)
   - [Automation & Containers](#automation--containers)
   - [Vulnerability](#vulnerability)
