@@ -117,6 +117,8 @@
   - https://youtu.be/KnDQydU1Qn0
 - Awesome Threat Intell RSS Feeds - A curated list of blogs posting threat intel.
   - https://github.com/signalscorps/awesome-threat-intel-rss
+- DFIR is a mindset, not a skillet
+  - https://brettshavers.com/brett-s-blog/entry/dfir-is-a-mindset-not-a-skillset
 
 ### **Videos**
 - MITRE ATT&CK: The Play at Home Edition
