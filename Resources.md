@@ -119,6 +119,8 @@
   - https://github.com/signalscorps/awesome-threat-intel-rss
 - DFIR is a mindset, not a skillet
   - https://brettshavers.com/brett-s-blog/entry/dfir-is-a-mindset-not-a-skillset
+- Ransomware: Every internet-connected network is at risk. Be prepared!
+  - https://www.sans.org/blog/ransomware-every-internet-connected-network-is-at-risk/?utm_medium=Social&utm_source=Twitter&utm_content=FOR528_Chapman_Blog_VMR&utm_campaign=DFIR%20Blog
 
 ### **Videos**
 - MITRE ATT&CK: The Play at Home Edition
@@ -616,6 +618,17 @@
 - NoMoreRansom - The battle is over for these ransomware threats. If you have been infected with one of these types of ransomware click on the link under its name and it will lead you to a decryption tool.
   - https://www.nomoreransom.org/
 - 
+
+### **Ransomware-Specific**
+- ransomwatch - provides a group index, recent DLS posts, group profiles, and statistic/graph page
+  - https://ransomwatch.telemetry.ltd/#/
+- Ransom Look - provides a group index, forum and market links, a listing of data leaks, telegram messages, and statistic/graph pages
+  - https://www.ransomlook.io/
+  - https://github.com/RansomLook/RansomLook
+- Ransom.Wiki - focuses more on allowing users to search for recent victims and/or ransomware groups by name
+  - https://ransom.wiki/
+- DarkFeed - provides several resources for identifying ransomware DLS and blog information
+  - https://darkfeed.io/ransomwiki/
 
 ### **Cloud**
 - Nextcloud
