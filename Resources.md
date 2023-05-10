@@ -614,11 +614,12 @@
   - https://github.com/thereisnotime/Snort-Rules
 - gVisor - The Container Security Platform
   - https://gvisor.dev/docs/
-- rcmatrix - The Ransomware Control Matrix (RCX) is a comprehensive framework designed to help organizations protect against ransomware attacks. It provides a structured approach to identifying and implementing effective controls at different levels of maturity, from foundational to elite, and includes both detection and mitigation controls.
-  - https://rcxmatrix.org/
-- NoMoreRansom - The battle is over for these ransomware threats. If you have been infected with one of these types of ransomware click on the link under its name and it will lead you to a decryption tool.
-  - https://www.nomoreransom.org/
-- 
+- Detecting Abused Legitimate Tools Applied by Hackers in the Human-Operated Ransomware Attacks
+  - https://socprime.com/blog/detecting-abused-legitimate-tools-applied-by-hackers-in-the-human-operated-ransomware-attacks/
+  - https://socprime.com/rs/search-result?search=abuse_legit_sync_and_rmm_tools
+- Detection Content: Ransom X Behavior
+  - https://socprime.com/blog/detection-content-ransom-x-behavior/
+
 
 ### **Ransomware-Specific**
 - ransomwatch - provides a group index, recent DLS posts, group profiles, and statistic/graph page
@@ -630,6 +631,14 @@
   - https://ransom.wiki/
 - DarkFeed - provides several resources for identifying ransomware DLS and blog information
   - https://darkfeed.io/ransomwiki/
+- rcmatrix - The Ransomware Control Matrix (RCX) is a comprehensive framework designed to help organizations protect against ransomware attacks. It provides a structured approach to identifying and implementing effective controls at different levels of maturity, from foundational to elite, and includes both detection and mitigation controls.
+  - https://rcxmatrix.org/
+- NoMoreRansom - The battle is over for these ransomware threats. If you have been infected with one of these types of ransomware click on the link under its name and it will lead you to a decryption tool.
+  - https://www.nomoreransom.org/
+- White Phoenix - can decrypt intermittent (partially) encrypted ransomware
+  - https://www.darkreading.com/attacks-breaches/free-tool-unlocks-some-encrypted-data-in-ransomware-attacks
+  - https://github.com/cyberark/White-Phoenix
+- 
 
 ### **Cloud**
 - Nextcloud
