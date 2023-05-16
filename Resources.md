@@ -211,6 +211,9 @@
 @Honeydbio
 - Sweet honey (honeydb.io honeypot Twitter account)
 
+@ArsenalRecon
+- Developers of #DFIR weapons which include Arsenal Image Mounter, Hibernation Recon, & Registry Recon. Arm Yourself!
+
 ## **Training**
 
 ### **Cyber Security**
@@ -419,6 +422,8 @@
   - https://github.com/klezVirus/SysWhispers3
 - Inceptor - modern penetration testing and Red Teaming oftern requires to bypass common AV/EDR appliances in order to execute code on a target; Inceptor is a tool which can help to automate great part of this process
   - https://github.com/klezVirus/inceptor
+- Arsenal Recon - Free tools including Arsenal Image Mounter, Registry Recon, Hive Recon, LevelDB Recon, Hibernation Recon, HBIN Recon, ODC Recon
+  - https://arsenalrecon.com/downloads
 
 ### **Blue Team**
 - HFish Honeypot Platform
