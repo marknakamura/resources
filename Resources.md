@@ -279,6 +279,8 @@
   - https://dfirdiva.com/free-and-affordable-training/?utm_campaign=Community&utm_content=169031515&utm_medium=social&utm_source=linkedin&hss_channel=lcp-3182190
 - Antisyphon Pay What You Can - In order to help more people get started in their InfoSec journey, a select group of our courses are priced on a pay scale. This gives students an opportunity to take hands-on, cutting-edge courses by well-known names in the community, regardless of their financial position.
   - https://www.antisyphontraining.com/pay-what-you-can/
+- LimaCharlie EDR Lab - 
+  - https://github.com/GriffinDuck/LimaCharlie-EDR-Lab/blob/main/README.md
 
 
 ### **Cloud Training**
@@ -424,6 +426,16 @@
   - https://github.com/klezVirus/inceptor
 - Arsenal Recon - Free tools including Arsenal Image Mounter, Registry Recon, Hive Recon, LevelDB Recon, Hibernation Recon, HBIN Recon, ODC Recon
   - https://arsenalrecon.com/downloads
+- Blackout - Leverages gmer driver to effectively disable or kill EDRs and AVs
+  - https://github.com/ZeroMemoryEx/Blackout
+- TokenTactics - Azure JSON Web Token ("JWT") Manipulation Toolset
+  - https://github.com/rvrsh3ll/TokenTactics
+- PentestGPT - A GPT-empowered penetration testing tool.
+  - https://github.com/GreyDGL/PentestGPT
+- PingCastle - Ping Castle is a tool designed to assess quickly the Active Directory security level with a methodology based on risk assessment and a maturity framework. It does not aim at a perfect evaluation but rather as an efficiency compromise.
+  - https://github.com/vletoux/pingcastle
+- Testimo - Testimo is a PowerShell Module to help with basic/more advanced testing of Active Directory and maybe in future other types of servers. Testimo is an alpha product and as such things do change. It's goal is to be fully automated solution where one can run the command and get results without executing 50 little functions.
+  - https://github.com/EvotecIT/Testimo
 
 ### **Blue Team**
 - HFish Honeypot Platform
@@ -624,6 +636,10 @@
   - https://socprime.com/rs/search-result?search=abuse_legit_sync_and_rmm_tools
 - Detection Content: Ransom X Behavior
   - https://socprime.com/blog/detection-content-ransom-x-behavior/
+- Backdoors & Breaches Online - Online version; This is Backdoors & Breaches, an Incident Response Card Game, from Black Hills Information Security and Active Countermeasures. Backdoors & Breaches contains 52 unique cards to help you conduct incident response tabletop exercises and learn attack tactics, tools, and methods.
+  - https://play.backdoorsandbreaches.com/
+- Group Policy Eater / GPOZaurr - Group Policy Eater is a PowerShell module that aims to gather information about Group Policies but also allows fixing issues that you may find in them. GPOZaurr provides 360 degrees of information about Group Policies and their settings.
+  - https://github.com/EvotecIT/GPOZaurr
 
 
 ### **Ransomware-Specific**
@@ -754,7 +770,8 @@
   - https://osintframework.com/
 - MalAPI.io - maps Windows APIs to common techniques used by malware
   - https://malapi.io/
-- 
+- Flight Radar 24 - Live air traffic tracking
+  - https://www.flightradar24.com/35.12,-78.9/6
 
 
 
@@ -791,6 +808,9 @@
   - https://www.fakenamegenerator.com/gen-random-us-nl.php
 - Big Ass data Broker Opt Out List
   - https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List
+- DLP Test - DLPTest.com is a testing resource for testing data loss prevention (DLP) software to test functionality. If DLP has been installed and configured correctly, DLP Test can demonstrate that sensitive data is protected when DLP is in blocking mode. Data loss prevention has traditionally been divided into three categories: Data in Use (DIU), Data at Rest (DAR), and Data in Motion (DIM). DLPTest.com currently offers features to test Data in Use and Data in Motion.
+  - https://dlptest.com/
+
 
 ## **System Administration**
 
@@ -810,7 +830,8 @@
 ### **Directory Tools**
 - OpenLDAP
   - https://www.openldap.org/
-- 
+- BadBlood - BadBlood by Secframe fills a Microsoft Active Directory Domain with a structure and thousands of objects. The output of the tool is a domain similar to a domain in the real world. After BadBlood is ran on a domain, security analysts and engineers can practice using tools to gain an understanding and prescribe to securing Active Directory.
+  - https://github.com/davidprowe/BadBlood
 
 ### **Web**
 - Varnish - web application accelerator also known as a caching HTTP reverse proxy
