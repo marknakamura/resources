@@ -122,6 +122,8 @@
   - https://brettshavers.com/brett-s-blog/entry/dfir-is-a-mindset-not-a-skillset
 - Ransomware: Every internet-connected network is at risk. Be prepared!
   - https://www.sans.org/blog/ransomware-every-internet-connected-network-is-at-risk/?utm_medium=Social&utm_source=Twitter&utm_content=FOR528_Chapman_Blog_VMR&utm_campaign=DFIR%20Blog
+- A Truly Graceful Wipeout - In this intrusion, dated May 2023, we observed Truebot being used to deploy Cobalt Strike and FlawedGrace (aka GraceWire & BARBWIRE) resulting in the exfiltration of data and the deployment of the MBR Killer wiper. The threat actors deployed the wiper within 29 hours of initial access.
+  - https://thedfirreport.com/2023/06/12/a-truly-graceful-wipe-out/
 
 ### **Videos**
 - MITRE ATT&CK: The Play at Home Edition
@@ -436,6 +438,8 @@
   - https://github.com/vletoux/pingcastle
 - Testimo - Testimo is a PowerShell Module to help with basic/more advanced testing of Active Directory and maybe in future other types of servers. Testimo is an alpha product and as such things do change. It's goal is to be fully automated solution where one can run the command and get results without executing 50 little functions.
   - https://github.com/EvotecIT/Testimo
+- Forensia - Anti Forensics Tool For Red Teamers, Used For Erasing Some Footprints In The Post Exploitation Phase.
+  - https://github.com/PaulNorman01/Forensia
 
 ### **Blue Team**
 - HFish Honeypot Platform
