@@ -814,6 +814,15 @@
   - https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List
 - DLP Test - DLPTest.com is a testing resource for testing data loss prevention (DLP) software to test functionality. If DLP has been installed and configured correctly, DLP Test can demonstrate that sensitive data is protected when DLP is in blocking mode. Data loss prevention has traditionally been divided into three categories: Data in Use (DIU), Data at Rest (DAR), and Data in Motion (DIM). DLPTest.com currently offers features to test Data in Use and Data in Motion.
   - https://dlptest.com/
+- Audacity - Audacity is an easy-to-use, multi-track audio editor and recorder for Windows, macOS, GNU/Linux and other operating systems.
+Audacity is free, open source software.
+  - https://www.audacityteam.org/
+- OBS Studio - Free and open source software for video recording and live streaming.
+  - https://obsproject.com/
+- Capture - Whether for work, home, or play, TechSmith Capture provides a simple way to take and share images and videos of your screen. Jing has transitioned to Capture.
+  - https://www.techsmith.com/jing-tool.html
+- CamStudio - CamStudio is a desktop software for Windows computers that can record all on-screen video and audio activity, creating industry-standard AVI video files and optionally turn those into lean, mean, bandwidth-friendly Streaming Flash videos (SWFs) using its built-in SWF Producer.
+  - https://camstudio.org/
 
 
 ## **System Administration**
