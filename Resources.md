@@ -298,6 +298,8 @@
   - https://www.sans.org/cyber-security-courses/?focus-area=cloud-security&msc=cloud-security-lp
 - Google Chronicle Learning Portal
   - https://learn.chronicle.security/
+- Breaking Into The Cloud
+  - https://github.com/lazzslayer/Breaking-Into-The-Cloud-Slides
 
 
 ### **Microsoft**
@@ -823,6 +825,8 @@ Audacity is free, open source software.
   - https://www.techsmith.com/jing-tool.html
 - CamStudio - CamStudio is a desktop software for Windows computers that can record all on-screen video and audio activity, creating industry-standard AVI video files and optionally turn those into lean, mean, bandwidth-friendly Streaming Flash videos (SWFs) using its built-in SWF Producer.
   - https://camstudio.org/
+- Beyond Compare - Beyond Compare is the popular choice for data comparison.  Compare folders, text files, images, and tables.  Review differences efficiently and merge changes with confidence.
+  - https://www.scootersoftware.com/
 
 
 ## **System Administration**
