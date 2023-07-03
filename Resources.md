@@ -20,6 +20,7 @@
 - [Tools](#tools)
   - [Red Team](#red-team)
   - [Blue Team](#blue-team)
+  - [Purple Team](#purple-team)
   - [Ransomware-Specific](#ransomware-specific)
   - [Cloud](#cloud)
   - [Automation & Containers](#automation--containers)
@@ -646,6 +647,10 @@
   - https://play.backdoorsandbreaches.com/
 - Group Policy Eater / GPOZaurr - Group Policy Eater is a PowerShell module that aims to gather information about Group Policies but also allows fixing issues that you may find in them. GPOZaurr provides 360 degrees of information about Group Policies and their settings.
   - https://github.com/EvotecIT/GPOZaurr
+
+### **Purple Team**
+- Seclab - This repo aims to provide a lightly-automated starting point for creating virtual labs for security research. To accomplish this, we rely on 4 technologies
+  - https://github.com/mttaggart/seclab
 
 
 ### **Ransomware-Specific**
