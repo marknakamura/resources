@@ -284,6 +284,8 @@
   - https://www.antisyphontraining.com/pay-what-you-can/
 - LimaCharlie EDR Lab - 
   - https://github.com/GriffinDuck/LimaCharlie-EDR-Lab/blob/main/README.md
+- Hoppers Roppers - This is our flagship course, designed to give a beginner in the cyber security field the knowledge and skills required to be successful in the field. It teaches security fundamentals along with building a strong technical foundation that you will build on for years to come.
+  - https://hoppersroppers.org/training
 
 
 ### **Cloud Training**
@@ -443,6 +445,12 @@
   - https://github.com/EvotecIT/Testimo
 - Forensia - Anti Forensics Tool For Red Teamers, Used For Erasing Some Footprints In The Post Exploitation Phase.
   - https://github.com/PaulNorman01/Forensia
+- Red Cloud OS - RedCloudOS is a Cloud Adversary Simulation Operating System for Red Teams to assess the Cloud Security of Leading Cloud Service Providers (CSPs)
+  - https://github.com/RedTeamOperations/RedCloud-OS?fbclid=IwAR1Xw-3j9G0idP9bnitDP8VW1HlgSREa8G96BKL1JTczZ5xO4euRtHlpsl4
+- SOC Multi-Tool - A Powerful And User-Friendly Browser Extension That Streamlines Investigations For Security Professionals
+  - https://www.kitploit.com/2023/07/soc-multitool-powerful-and-user.html?m=1
+- Scanner's Box - Scanners Box also known as scanbox, is a powerful hacker toolkit, which has collected more than 10 categories of open source scanners from Github, including subdomain, database, middleware and other modular design scanner etc.
+  - https://github.com/We5ter/Scanners-Box
 
 ### **Blue Team**
 - HFish Honeypot Platform
@@ -647,6 +655,10 @@
   - https://play.backdoorsandbreaches.com/
 - Group Policy Eater / GPOZaurr - Group Policy Eater is a PowerShell module that aims to gather information about Group Policies but also allows fixing issues that you may find in them. GPOZaurr provides 360 degrees of information about Group Policies and their settings.
   - https://github.com/EvotecIT/GPOZaurr
+- Hardening Kitty - HardeningKitty supports hardening of a Windows system. The configuration of the system is retrieved and assessed using a finding list. In addition, the system can be hardened according to predefined values. HardeningKitty reads settings from the registry and uses other modules to read configurations outside the registry.
+  - https://github.com/scipag/HardeningKitty
+- Threat Composer - threat-composer provides a prescriptive threat articulation structure, this helps users create threat statements with less effort. The tool supports starting from any part of the threat statement, and encourages the user to be more complete and descriptive to help ensure the threat statement allows for both for prioritization for mitigation and sufficient information to devise mitigation strategies.
+  - https://github.com/awslabs/threat-composer
 
 ### **Purple Team**
 - Seclab - This repo aims to provide a lightly-automated starting point for creating virtual labs for security research. To accomplish this, we rely on 4 technologies
@@ -714,7 +726,8 @@
   - http://www.angusj.com/resourcehacker/
 - Pretty Errors - Prettifies Python exception output to make it legible
   - https://github.com/onelivesleft/PrettyErrors
-- 
+- Web Check - many checks ran against a URL
+  - https://web-check.as93.net/
 
 ### **OSINT (Open Source Intelligence)**
 - Have I Been Pwned?
@@ -783,7 +796,8 @@
   - https://malapi.io/
 - Flight Radar 24 - Live air traffic tracking
   - https://www.flightradar24.com/35.12,-78.9/6
-
+- Goblin Tools - AI to help with simple things like verbiage or to-do lists
+  - https://goblin.tools/
 
 
 ### **Miscellaneous**
