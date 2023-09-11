@@ -125,6 +125,12 @@
   - https://www.sans.org/blog/ransomware-every-internet-connected-network-is-at-risk/?utm_medium=Social&utm_source=Twitter&utm_content=FOR528_Chapman_Blog_VMR&utm_campaign=DFIR%20Blog
 - A Truly Graceful Wipeout - In this intrusion, dated May 2023, we observed Truebot being used to deploy Cobalt Strike and FlawedGrace (aka GraceWire & BARBWIRE) resulting in the exfiltration of data and the deployment of the MBR Killer wiper. The threat actors deployed the wiper within 29 hours of initial access.
   - https://thedfirreport.com/2023/06/12/a-truly-graceful-wipe-out/
+- Bypassing Bitlocker - Have you ever been told that the company’s data on laptops is protected thanks to BitLocker? Well it turns out that this depends on BitLocker’s configuration…
+  - https://www.errno.fr/BypassingBitlocker
+- SSH Cheatsheet - Oh you like SSH? Name every flag.
+  - https://grahamhelton.com/blog/ssh-cheatsheet/
+- Open Source Release of Intel 471 Intelligence Requirements Framework
+  - https://intel471.com/blog/open-source-release-of-intel-471-intelligence-requirements-framework?utm_content=259780116&utm_medium=social&utm_source=linkedin&hss_channel=lcp-3744600
 
 ### **Videos**
 - MITRE ATT&CK: The Play at Home Edition
@@ -151,6 +157,8 @@
   - https://www.youtube.com/c/thecybermentor
 - 13Cubed - This channel covers information security-related topics including Digital Forensics and Incident Response (DFIR) and Penetration Testing, as well as tutorials and overviews of various apps and scripts Richard Davis has written
   - https://www.youtube.com/c/13cubed/featured
+- Anuj Soni - I'm a Threat Researcher, SANS Certified Instructor and Course Author. I'm here to share my successes and failures analyzing malicious code. 
+  - https://www.youtube.com/@sonianuj
 
 ### **Podcasts**
 - Uncovering Hidden Risks
@@ -286,6 +294,8 @@
   - https://github.com/GriffinDuck/LimaCharlie-EDR-Lab/blob/main/README.md
 - Hoppers Roppers - This is our flagship course, designed to give a beginner in the cyber security field the knowledge and skills required to be successful in the field. It teaches security fundamentals along with building a strong technical foundation that you will build on for years to come.
   - https://hoppersroppers.org/training
+- Burp Suite Certified Practitioner Exam Study - This is my study notes with over a 100 PortSwigger Academy labs that I used to pass the Burp Suite Certified Practitioner Exam and obtained my BSCP qualification.
+  - https://github.com/botesjuan/Burp-Suite-Certified-Practitioner-Exam-Study
 
 
 ### **Cloud Training**
@@ -310,6 +320,8 @@
   - https://docs.microsoft.com/en-us/learn/
 - GCP - Chronicle Learning Portal
   - https://learn.chronicle.security/
+- Microsoft 365 Developer Program - Get an instant sandbox preconfigured with sample data, including Teams Developer Portal, and start developing on the Microsoft 365 platform.
+  - https://developer.microsoft.com/en-us/microsoft-365/dev-program
 
 ### **CTFs (Capture the Flag)**
 
@@ -451,6 +463,13 @@
   - https://www.kitploit.com/2023/07/soc-multitool-powerful-and-user.html?m=1
 - Scanner's Box - Scanners Box also known as scanbox, is a powerful hacker toolkit, which has collected more than 10 categories of open source scanners from Github, including subdomain, database, middleware and other modular design scanner etc.
   - https://github.com/We5ter/Scanners-Box
+- cybergoatpsyops Detections
+  - https://github.com/cybergoatpsyops/detections
+- Pentesting Azure - Recon Techniques
+  - https://securitycafe.ro/2022/04/29/pentesting-azure-recon-techniques/
+- RedTeam-OffensiveSecurity - NOTES https://www.ired.team/ (RED TEAMING)
+  - https://github.com/bigb0sss/RedTeam-OffensiveSecurity
+
 
 ### **Blue Team**
 - HFish Honeypot Platform
@@ -659,6 +678,22 @@
   - https://github.com/scipag/HardeningKitty
 - Threat Composer - threat-composer provides a prescriptive threat articulation structure, this helps users create threat statements with less effort. The tool supports starting from any part of the threat statement, and encourages the user to be more complete and descriptive to help ensure the threat statement allows for both for prioritization for mitigation and sufficient information to devise mitigation strategies.
   - https://github.com/awslabs/threat-composer
+- Purple Knight - #1 Active Directory security assessment community tool
+  - https://www.purple-knight.com/
+- Forest Druid - Forest Druid flips the script, taking an inside-out approach to attack path management. Forest Druid focuses on attack paths leading into the Tier 0 perimeter—saving time by prioritizing your most critical assets.
+  - https://www.purple-knight.com/forest-druid/
+- Awesome_Incident_Response - Welcome to "Awesome Incident Response" the ultimate open-source repository designed to simplify and guide you through the intricate world of incident response!
+  - https://github.com/hevnsnt/Awesome_Incident_Response/tree/main
+- Malcore - Malcore is an advanced sandbox solution that is designed with speed and scalability in mind. Most leading sandbox solutions can take multiple minutes to perform analysis on a single file, Malcore solves this problem by taking seconds where it takes minutes. This allows Malcore to scale faster and larger than leading solutions by allowing more requests per day. Where other tools fall short is where Malcore thrives.
+  - https://malcore.io/
+- Harden Windows Security
+  - https://github.com/HotCakeX/Harden-Windows-Security/wiki
+- Start.me Forensics - curated list of forenic resources
+  - https://start.me/p/q6mw4Q/forensics
+- Start.me Threat Intelligence - curated list of threat intelligence resources
+  - https://start.me/p/wMrA5z/cyber-threat-intelligence
+- Microsoft Incident Response Playbooks - You need to respond quickly to detected security attacks to contain and remediate its damage. As new widespread cyberattacks happen, such as Nobellium and the Exchange Server vulnerability, Microsoft will respond with detailed incident response guidance.
+  - https://learn.microsoft.com/en-us/security/operations/incident-response-playbooks
 
 ### **Purple Team**
 - Seclab - This repo aims to provide a lightly-automated starting point for creating virtual labs for security research. To accomplish this, we rely on 4 technologies
@@ -682,7 +717,10 @@
 - White Phoenix - can decrypt intermittent (partially) encrypted ransomware
   - https://www.darkreading.com/attacks-breaches/free-tool-unlocks-some-encrypted-data-in-ransomware-attacks
   - https://github.com/cyberark/White-Phoenix
-- 
+- CloudFox - CloudFox helps you gain situational awareness in unfamiliar cloud environments. It’s an open source command line tool created to help penetration testers and other offensive security professionals find exploitable attack paths in cloud infrastructure.
+  - https://github.com/BishopFox/cloudfox
+- BlackSky Cloud Hacking - BlackSky is our new set of pentesting labs for business which is built on AWS, Google Cloud Platform, and Microsoft Azure for cloud hacking. Train your employees in cloud security!
+  - https://www.hackthebox.com/blog/BlackSky-cloud-hacking
 
 ### **Cloud**
 - Nextcloud
@@ -691,6 +729,10 @@
   - https://www.vultr.com/pricing/
 - Azure AD Incident Response PowerShell Module
   - https://github.com/AzureAD/Azure-AD-Incident-Response-PowerShell-Module
+- CSPM Evaluation Matrix - A copy of the slides used during the fwd:cloudsec talk by David White
+  - https://github.com/Nextdoor/cspm_evaluation_matrix
+- Azure Active Directory security operations guide - Microsoft has a successful and proven approach to Zero Trust security using Defense in Depth principles that use identity as a control plane. Organizations continue to embrace a hybrid workload world for scale, cost savings, and security. Azure Active Directory (Azure AD) plays a pivotal role in your strategy for identity management. Recently, news surrounding identity and security compromise has increasingly prompted enterprise IT to consider their identity security posture as a measurement of defensive security success.
+  - https://learn.microsoft.com/en-us/azure/active-directory/architecture/security-operations-introduction
 
 ### **Automation & Containers**
 - Apache Airflow
@@ -846,7 +888,8 @@ Audacity is free, open source software.
   - https://camstudio.org/
 - Beyond Compare - Beyond Compare is the popular choice for data comparison.  Compare folders, text files, images, and tables.  Review differences efficiently and merge changes with confidence.
   - https://www.scootersoftware.com/
-
+- Awesome SEcurity GRC - This is a list of resources for security GRC folks.
+  - https://github.com/Arudjreis/awesome-security-GRC
 
 ## **System Administration**
 
@@ -889,6 +932,8 @@ Audacity is free, open source software.
   - https://tls13.xargs.org/
 - Cisco Joy - A package for capturing and analyzing network flow data and intraflow data, for network research, forensics, and security monitoring
   - https://github.com/cisco/joy
+- Network-segmentation-cheat-sheet - This project was created to publish the best practices for segmentation of the corporate network of any company. In general, the schemes in this project are suitable for any company.
+  - https://github.com/sergiomarotco/Network-segmentation-cheat-sheet
 
 ## **Fun Projects**
 - XKCD Password Generator - Flexible and scriptable strong password generator
