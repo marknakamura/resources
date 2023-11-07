@@ -131,6 +131,12 @@
   - https://grahamhelton.com/blog/ssh-cheatsheet/
 - Open Source Release of Intel 471 Intelligence Requirements Framework
   - https://intel471.com/blog/open-source-release-of-intel-471-intelligence-requirements-framework?utm_content=259780116&utm_medium=social&utm_source=linkedin&hss_channel=lcp-3744600
+- Introducing GraphRunner: A Post-Exploitation Toolset for Microsoft 365
+  - https://www.blackhillsinfosec.com/introducing-graphrunner/
+- DVWA Ultimate Guide – First Steps and Walkthrough
+  - https://bughacking.com/dvwa-ultimate-guide-first-steps-and-walkthrough/
+- Leveraging SRUM for Incident Response
+  - https://www.fancy4n6.com/posts/2023-11-05-srum_forensics/
 
 ### **Videos**
 - MITRE ATT&CK: The Play at Home Edition
@@ -159,6 +165,10 @@
   - https://www.youtube.com/c/13cubed/featured
 - Anuj Soni - I'm a Threat Researcher, SANS Certified Instructor and Course Author. I'm here to share my successes and failures analyzing malicious code. 
   - https://www.youtube.com/@sonianuj
+- 1 - Brute Force (low/med/high) - Damn Vulnerable Web Application (DVWA)
+  - https://www.youtube.com/watch?v=SWzxoK6DAE4
+- [wazuh] this Cybersecurity Platform is FREE
+  - https://www.youtube.com/watch?app=desktop&v=i68atPbB8uQ&feature=youtu.be
 
 ### **Podcasts**
 - Uncovering Hidden Risks
@@ -324,6 +334,8 @@
   - https://developer.microsoft.com/en-us/microsoft-365/dev-program
 
 ### **CTFs (Capture the Flag)**
+- OWASP Juice Shop - OWASP Juice Shop is probably the most modern and sophisticated insecure web application! It can be used in security trainings, awareness demos, CTFs and as a guinea pig for security tools! Juice Shop encompasses vulnerabilities from the entire OWASP Top Ten along with many other security flaws found in real-world applications!
+  - https://owasp.org/www-project-juice-shop/
 
 ### **Walkthroughs**
 - MalwareTEch Beginner Malware Reversing Challenges
@@ -469,7 +481,23 @@
   - https://securitycafe.ro/2022/04/29/pentesting-azure-recon-techniques/
 - RedTeam-OffensiveSecurity - NOTES https://www.ired.team/ (RED TEAMING)
   - https://github.com/bigb0sss/RedTeam-OffensiveSecurity
-
+- ADMiner - ADMiner is an Active Directory audit tool that leverages cypher queries to crunch data from the BloodHound graph database (neo4j) and gives you a global overview of existing weaknesses through a web-based static report, including detailed listing, dynamic graphs, key indicators history, along with risk ratings.
+  - https://github.com/Mazars-Tech/AD_Miner
+- MFASweep - MFASweep is a PowerShell script that attempts to log in to various Microsoft services using a provided set of credentials and will attempt to identify if MFA is enabled. Depending on how conditional access policies and other multi-factor authentication settings are configured some protocols may end up being left single factor. It also has an additional check for ADFS configurations and can attempt to log in to the on-prem ADFS server if detected.
+  - https://github.com/dafthack/MFASweep
+- EDRSandblast - EDRSandBlast is a tool written in C that weaponize a vulnerable signed driver to bypass EDR detections (Notify Routine callbacks, Object Callbacks and ETW TI provider) and LSASS protections. Multiple userland unhooking techniques are also implemented to evade userland monitoring.
+  - https://github.com/lleon1435/EDRSandblast
+- NetExec - This project was initially created in 2015 by @byt3bl33d3r, known as CrackMapExec. In 2019 @mpgn_x64 started maintaining the project for the next 4 years, adding a lot of great tools and features. In September 2023 he retired from maintaining the project.
+  - https://github.com/Pennyw0rth/NetExec
+- onedrive_user_enum - enumerate valid onedrive users
+  - https://github.com/nyxgeek/onedrive_user_enum
+  - https://www.trustedsec.com/blog/onedrive-to-enum-them-all/
+- APT38-0day-0Stealer - A program that automates the APT38 technique, which has been utilized to target cybersecurity researchers experts
+  - https://github.com/ZeroMemoryEx/APT38-0day-Stealer
+- GraphRunner - GraphRunner is a post-exploitation toolset for interacting with the Microsoft Graph API. It provides various tools for performing reconnaissance, persistence, and pillaging of data from a Microsoft Entra ID (Azure AD) account.
+  - https://github.com/dafthack/GraphRunner/
+- Pacu - The Open Source AWS Exploitation Framework
+  - https://rhinosecuritylabs.com/aws/pacu-open-source-aws-exploitation-framework/
 
 ### **Blue Team**
 - HFish Honeypot Platform
@@ -694,10 +722,27 @@
   - https://start.me/p/wMrA5z/cyber-threat-intelligence
 - Microsoft Incident Response Playbooks - You need to respond quickly to detected security attacks to contain and remediate its damage. As new widespread cyberattacks happen, such as Nobellium and the Exchange Server vulnerability, Microsoft will respond with detailed incident response guidance.
   - https://learn.microsoft.com/en-us/security/operations/incident-response-playbooks
+- Belkasoft T - Belkasoft T is a free tool that designed to assist in situations when an investigator or a first responder is at the scene of incident and needs to quickly identify and obtain specific digital evidence stored on a Windows machine.
+  - https://belkasoft.com/t
+- PersistenceSniper - PersistenceSniper is a Powershell module that can be used by Blue Teams, Incident Responders and System Administrators to hunt persistences implanted in Windows machines. It is also available on Powershell Gallery and it is digitally signed with a valid code signing certificate.
+  - https://github.com/last-byte/PersistenceSniper
+- MITRE D3FEND - A knowledge graph of cybersecurity countermeasures
+  https://d3fend.mitre.org/
+- SIEM_SETUP_ELASTIC - This script automates the installation and configuration of Elasticsearch, Kibana, and Filebeat for setting up a Security Information and Event Management (SIEM) system. It guides you through the necessary steps, prompting for user input when needed. Please note this script will not support for the versions of 8.x or above.
+  - https://github.com/samiul008ghub/SIEM_SETUP_ELASTIC
+- ELITEWOLF - This repository contains various ICS/SCADA/OT focused signatures and analytics. The end goal is to enable Critical Infrastructure Defenders, Intrusion Analysts, and others to implement continuous and vigilant system monitoring. WARNING: These signatures/analytics aren't necessarily malicious activity. They require follow on analysis to truly determine if this activity is malicious or not.
+  - https://github.com/nsacyber/elitewolf;
+- misp-playbooks - MISP playbooks address common use-cases encountered by SOCs, CSIRTs or CTI teams to detect, react and analyse specific intelligence received by MISP.
+  - https://github.com/MISP/misp-playbooks
+- Sublime Platform -A free and open platform for detecting and preventing email attacks like BEC, malware, and credential phishing. Gain visibility and control, hunt for advanced threats, and collaborate with the community.
+  - https://github.com/sublime-security/sublime-platform
+  - https://sublime.security/integrations#mailboxes
 
 ### **Purple Team**
 - Seclab - This repo aims to provide a lightly-automated starting point for creating virtual labs for security research. To accomplish this, we rely on 4 technologies
   - https://github.com/mttaggart/seclab
+- ransomware-simulator - The goal of this repository is to provide a simple, harmless way to check your AV's protection on ransomware.
+  https://github.com/NextronSystems/ransomware-simulator/
 
 
 ### **Ransomware-Specific**
@@ -733,6 +778,9 @@
   - https://github.com/Nextdoor/cspm_evaluation_matrix
 - Azure Active Directory security operations guide - Microsoft has a successful and proven approach to Zero Trust security using Defense in Depth principles that use identity as a control plane. Organizations continue to embrace a hybrid workload world for scale, cost savings, and security. Azure Active Directory (Azure AD) plays a pivotal role in your strategy for identity management. Recently, news surrounding identity and security compromise has increasingly prompted enterprise IT to consider their identity security posture as a measurement of defensive security success.
   - https://learn.microsoft.com/en-us/azure/active-directory/architecture/security-operations-introduction
+- TierZeroTable - Table of AD and Azure assets and whether they belong to Tier Zero.
+  - https://github.com/SpecterOps/TierZeroTable
+
 
 ### **Automation & Containers**
 - Apache Airflow
@@ -890,9 +938,16 @@ Audacity is free, open source software.
   - https://www.scootersoftware.com/
 - Awesome SEcurity GRC - This is a list of resources for security GRC folks.
   - https://github.com/Arudjreis/awesome-security-GRC
+- Aperisolve - Aperi'Solve is an online platform which performs layer analysis on image. The platform also uses zsteg, steghide, outguess, exiftool, binwalk, foremost and strings for deeper steganography analysis. The platform supports the following images format: .png, .jpg, .gif, .bmp, .jpeg, .jfif, .jpe, .tiff...
+  - https://www.aperisolve.com/
+- DTMF Decoder - Convert dialtone to numbers
+  https://dtmf.netlify.app/
+- Cult of the Party Parrot
+  - https://cultofthepartyparrot.com/
 
 ## **System Administration**
-
+- Chocolatey - The Package Manager for Windows
+  - https://chocolatey.org/
 ### **Linux**
 - Glances - Curses-based System Monitoring Tool for Linux
   - https://www.tecmint.com/glances-an-advanced-real-time-system-monitoring-tool-for-linux/amp/
