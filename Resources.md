@@ -42,6 +42,12 @@
 ## **General**
 - Book of Secret Knowledge - Inspiring Lists, the biggest collection of resources
   - https://github.com/trimstray/the-book-of-secret-knowledge#inspiring-lists-toc
+- Awesome GPT Agents - The "Awesome GPTs (Agents) Repo" represents an initial effort to compile a comprehensive list of GPT agents focused on cybersecurity (offensive and defensive), created by the community.
+  - https://github.com/fr0gger/Awesome-GPT-Agents
+- IPPSEC - enter search terms to find resources
+  - https://ippsec.rocks/?#
+- List of open source resources
+  - https://www.linkedin.com/posts/mohiuddin7_all-open-source-resources-red-team-ops-activity-7136988674331738112-Hr1r/?utm_source=share&utm_medium=member_android
 - InfoSec-Black-Friday - All the deals for InfoSec related software/tools this Black Friday / Cyber Monday, for all the hackers that saved $$$ during lockdowns
   - https://github.com/0x90n/InfoSec-Black-Friday
 - Roadmap.sh - community effort to create roadmaps, guides and other educational content to help guide the developers in picking up the path and guide their learnings (includes cyber security)
@@ -137,6 +143,18 @@
   - https://bughacking.com/dvwa-ultimate-guide-first-steps-and-walkthrough/
 - Leveraging SRUM for Incident Response
   - https://www.fancy4n6.com/posts/2023-11-05-srum_forensics/
+- New Microsoft Incident Response team guide shares best practices for security teams and leaders
+  - https://www.microsoft.com/en-us/security/blog/2023/12/11/new-microsoft-incident-response-team-guide-shares-best-practices-for-security-teams-and-leaders/
+- FalconForce - A team of highly specialized security professionals
+  - https://medium.com/falconforce
+- FalconHound, attack path management for blue teams
+  - https://medium.com/falconforce/falconhound-attack-path-management-for-blue-teams-42adedc9cae5
+- A tale of EDR bypass methods
+  - https://s3cur3th1ssh1t.github.io/A-tale-of-EDR-bypass-methods/
+- EDR Bypass with LoLBins
+  - https://bishopfox.com/blog/edr-bypass-with-lolbins
+- EDR Bypass : Retrieving Syscall ID with Hell's Gate, Halo's Gate, FreshyCalls and Syswhispers2
+  - https://alice.climent-pommeret.red/posts/direct-syscalls-hells-halos-syswhispers2/
 
 ### **Videos**
 - MITRE ATT&CK: The Play at Home Edition
@@ -306,7 +324,8 @@
   - https://hoppersroppers.org/training
 - Burp Suite Certified Practitioner Exam Study - This is my study notes with over a 100 PortSwigger Academy labs that I used to pass the Burp Suite Certified Practitioner Exam and obtained my BSCP qualification.
   - https://github.com/botesjuan/Burp-Suite-Certified-Practitioner-Exam-Study
-
+- HackTricks - Welcome to the wiki where you will find each hacking trick/technique/whatever I have learnt from CTFs, real life apps, reading researches, and news.
+  - https://book.hacktricks.xyz/welcome/readme
 
 ### **Cloud Training**
 - AWS CIRT announces the release of five publicly available workshops
@@ -372,7 +391,9 @@
   - https://academic-store.comptia.org
 - CISSP Cheat Sheet
   - https://media-exp1.licdn.com/dms/document/C4D1FAQESWV3VjvJohA/feedshare-document-pdf-analyzed/0/1661003896498?e=1661990400&v=beta&t=ZRkCgDuCqm47pdfJj1EcrMQ6bshjTA-M_D6YfLeCFPQ
-- 
+- reconness - ReconNess helps you to run and keep all your #recon in the same place allowing you to focus only on the potentially vulnerable targets without distraction and without required a lot of bash skill or programing skill in general.
+With ReconNess you can put all your learning effort only on how to exploit the targets using one specific kind of vulnerability for example and at the same time you are sure that your #recon is good and organized.
+  - https://github.com/reconness/reconness
 
 ## **Tools**
 
@@ -498,6 +519,48 @@
   - https://github.com/dafthack/GraphRunner/
 - Pacu - The Open Source AWS Exploitation Framework
   - https://rhinosecuritylabs.com/aws/pacu-open-source-aws-exploitation-framework/
+- Nemesis - Nemesis is a centralized data processing platform that ingests, enriches, and performs analytics on offensive security assessment data (i.e., data collected during penetration tests and red team engagements).​​ Nemesis was created by Lee Chagolla-Christensen, Will Schroeder, and Max Harley from SpecterOps.
+  - https://github.com/SpecterOps/Nemesis
+  - https://www.helpnetsecurity.com/2023/12/12/nemesis-specterops-data-enrichment-analytic-pipeline/
+- RedEye - This project was built by pentesters for pentesters. Redeye is a tool intended to help you manage your data during a pentest operation in the most efficient and organized way.
+  - https://www.kitploit.com/2023/08/redeye-tool-intended-to-help-you-manage.html
+  - https://github.com/redeye-framework/Redeye
+- TruffleHog - search for secrets
+  - https://github.com/trufflesecurity/trufflehog
+- egressbuster - EgressBuster is a way to test the effectiveness of egress filtering for an individual area. When performing a penetration test, often times companies leverage egress filtering in order to prevent access to the outside Internet. Most companies have special exceptions and allow ports but they may be difficult to find.
+  - https://github.com/trustedsec/egressbuster
+- Arsenal - Arsenal is just a quick inventory, reminder and launcher for pentest commands. This project written by pentesters for pentesters simplify the use of all the hard-to-remember commands
+  - https://github.com/Orange-Cyberdefense/arsenal/tree/master
+- ProcessStomping - A variation of ProcessOverwriting to execute shellcode on an executable's section
+  - https://github.com/naksyn/ProcessStomping
+- Invoke-SessionHunter - Retrieve and display information about active user sessions on remote computers. No admin privileges required.
+  - https://github.com/Leo4j/Invoke-SessionHunter
+- Hell Shell - HellShell Supports 3 types of obfuscated shellcode output, all as arrays
+  - https://github.com/NUL0x4C/HellShell
+- Awesome EDR Bypass - EDR bypass technology is not just for attackers. Many malware now have EDR bypass capabilities, knowledge that pentesters and incident responders should also be aware of. This repository is not intended to be used to escalate attacks. Use it for ethical hacking.
+   - https://github.com/tkmru/awesome-edr-bypass
+- Awesome-AV-EDR-XDR-Bypass - Welcome to this repository! The purpose of this repository is to gather as many techniques and tools as possible to circumvent AVs, EDRs and XDRs so that it can help you throughout your pentest.
+  - https://github.com/MrEmpy/Awesome-AV-EDR-XDR-Bypass
+- BypassAV - This map lists the essential techniques to bypass anti-virus and EDR
+  - https://github.com/matro7sh/BypassAV
+- Windows-API-For-Red-Team - This repository is a compilation of the main Windows APIs for use in PenTest, Red Team operations and Malware Analysis
+  - https://github.com/CyberSecurityUP/Windows-API-for-Red-Team
+- LOLDrivers - Welcome to LOLDrivers (Living Off The Land Drivers), an exciting open-source project that brings together vulnerable, malicious, and known malicious Windows drivers in one comprehensive repository. Our mission is to empower organizations of all sizes with the knowledge and tools to understand and address driver-related security risks, making their systems safer and more reliable.
+  - https://github.com/magicsword-io/LOLDrivers
+- NimBlackout - NimBlackout is an adaptation of the @Blackout project originally developed in C++ by @ZeroMemoryEx, which consists of removing AV/EDRs using the gmer (BYOVD) driver.
+  - https://github.com/Helixo32/NimBlackout
+- RecycledGate - This is just another implementation of Hellsgate + Halosgate/Tartarusgate. However, this implementation makes sure that all system calls still go through ntdll.dll to avoid the usage of direct systemcalls. To do so, I parse the ntdll for nonhooked syscall-stubs and re-use existing syscall;ret instructions - thus the name of this project. 
+  - https://github.com/thefLink/RecycledGate
+- Tartarus' Gate - Hell's Gate evolved to Halo's Gate to bypass EDRs by unhooking some of them and now it turned to Tartarus' Gate to handle even more WINAPI hooking methods.
+  - https://github.com/trickster0/TartarusGate
+- UnhookingPatch - Bypass EDR Hooks by patching NT API stub, and resolving SSNs and syscall instructions at runtime
+  - https://github.com/TheD1rkMtr/UnhookingPatch
+- java-gate - The java-gate project allows for the implementation of various techniques related to "Hell's Gate" using simple Java code, which involves direct system calls.
+  - https://github.com/4ra1n/java-gate
+- tricker0's Nest - Pentester / Red Teamer / Malware Dev / Exploit Dev / Security Researcher
+  - https://trickster0.github.io/
+- ReleaseTheHounds - Tool to interact with BloodHound CE API.
+  - https://github.com/deletehead/ReleaseTheHounds
 
 ### **Blue Team**
 - HFish Honeypot Platform
@@ -737,6 +800,18 @@
 - Sublime Platform -A free and open platform for detecting and preventing email attacks like BEC, malware, and credential phishing. Gain visibility and control, hunt for advanced threats, and collaborate with the community.
   - https://github.com/sublime-security/sublime-platform
   - https://sublime.security/integrations#mailboxes
+- forensictools - forensictools is a toolkit designed for digital forensics, offering a wide array of tools. Its primary goal is to simplify the creation of a virtual environment for conducting forensic examinations.
+  - https://github.com/cristianzsh/forensictools
+- AuthLogParser - AuthLogParser is a powerful Digital Forensics and Incident Response tool designed specifically for analyzing Linux authentication logs, commonly known as auth.log. This tool serves as an invaluable asset for Incident Responders, streamlining the process of investigating security incidents on Linux systems. AuthLogParser meticulously scans the auth.log log file, extracting key information such as SSH logins, user creations, event names, IP addresses, and more.
+  - https://github.com/YosfanEilay/AuthLogParser
+- RootA - RootA is a public-domain language for collective cyber defense, created to make threat detection, incident response, and actor attribution simple. It acts as an open-source wrapper on top of the majority of existing SIEM, EDR, XDR, and Data Lake query languages. If you learn the basics of RootA, you will be able to contribute to collective defense. And if you have mastered a specific SIEM language, with RootA and Uncoder IO you can speak them all.
+  - https://roota.io/
+- Impede.ai - Unleash the power of advanced detection engineering.
+  - https://impede.ai/
+- The RULER Project - Currently I have no plans on documenting 'what you should log', this is more about what is enabled by default.
+  - https://ruler-project.github.io/ruler-project/
+- Incident Response Plan Template
+  - https://github.com/CyberSecurityUP/information-security-relatory/blob/master/Incident%20Response%20Plan%20Template.docx
 
 ### **Purple Team**
 - Seclab - This repo aims to provide a lightly-automated starting point for creating virtual labs for security research. To accomplish this, we rely on 4 technologies
@@ -787,7 +862,29 @@
   - https://airflow.apache.org/
 - Rancher - Kubernetes Orchestrator
   - https://rancher.com/docs/rancher/v2.x/en/
-- 
+- KillerCoda - Playgrounds have no tasks or questions and can be used to work on things from scratch. The CKS, CKA and CKAD ones will always have the same K8s version as currently used in the Linux Foundation exams.
+  - https://killercoda.com/playgrounds/
+- Falco - Falco is a cloud native runtime security tool for Linux operating systems. It is designed to detect and alert on abnormal behavior and potential security threats in real-time. At its core, Falco is a kernel monitoring and detection agent that observes events, such as syscalls, based on custom rules. Falco can enhance these events by integrating metadata from the container runtime and Kubernetes. The collected events can be analyzed off-host in SIEM or data lake systems.
+  - https://falco.org/docs/
+- Tetragon - Cilium Tetragon component enables powerful realtime, eBPF-based Security Observability and Runtime Enforcement.
+Tetragon detects and is able to react to security-significant events, such as
+Process execution events
+System call activity
+I/O activity including network & file access
+When used in a Kubernetes environment, Tetragon is Kubernetes-aware - that is, it understands Kubernetes identities such as namespaces, pods and so-on - so that security event detection can be configured in relation to individual workloads.
+  - https://tetragon.io/docs/overview/
+- Kubernetes Goat - Kubernetes Goat is an interactive Kubernetes security learning playground. It has intentionally vulnerable by design scenarios to showcase the common misconfigurations, real-world vulnerabilities, and security issues in Kubernetes clusters, containers, and cloud native environments.
+  - https://madhuakula.com/kubernetes-goat/docs/
+- KubeHound - A Kubernetes attack graph tool allowing automated calculation of attack paths between assets in a cluster
+  - https://github.com/DataDog/KubeHound
+- Peirates - Peirates, a Kubernetes penetration tool, enables an attacker to escalate privilege and pivot through a Kubernetes cluster. It automates known techniques to steal and collect service account tokens, secrets, obtain further code execution, and gain control of the cluster.
+  - https://github.com/inguardians/peirates
+- rakkess - Review Access - kubectl plugin to show an access matrix for server resources
+  - https://github.com/corneliusweig/rakkess
+- Kube or Fake? - You'll be given 5 Kubernetes terms generated by ChatGPT - some are real, some are fake. Try to tell them apart!
+  - https://kube-or-fake.raftt.io/
+
+
 
 ### **Vulnerability**
 - SonarQube
@@ -799,7 +896,8 @@
   - https://letsencrypt.org/
 - CyberChef - A simple, intuitive web app for analysing and decoding data without having to deal with complex tools or programming languages
   - https://gchq.github.io/CyberChef/
-  - 
+- CyberChef Recipes
+  - https://github.com/mattnotmax/cyberchef-recipes
 
 ### **Coding Utilities**
 - Postman
@@ -818,6 +916,16 @@
   - https://github.com/onelivesleft/PrettyErrors
 - Web Check - many checks ran against a URL
   - https://web-check.as93.net/
+- sql-practice
+  - https://www.sql-practice.com/
+- Mode - Learn to answer questions with data using SQL. No coding experience necessary.
+  - https://mode.com/sql-tutorial
+- SQLBolt - Welcome to SQLBolt, a series of interactive lessons and exercises designed to help you quickly learn SQL right in your browser.
+  - https://sqlbolt.com/
+- DataLemur - Practice SQL Interview and Data Science Interview questions on DataLemur.
+  - https://datalemur.com/
+- SQL Tutorial
+  - https://www.w3schools.com/sql/
 
 ### **OSINT (Open Source Intelligence)**
 - Have I Been Pwned?
@@ -888,7 +996,9 @@
   - https://www.flightradar24.com/35.12,-78.9/6
 - Goblin Tools - AI to help with simple things like verbiage or to-do lists
   - https://goblin.tools/
-
+- TraceLabs OSINT VM - The Trace Labs team created a specialized OSINT VM specifically to bring together the most effective OSINT tools and customized scripts we saw being used during our Search Party CTF’s. Inspired by the infamous Buscador VM, the Trace Labs OSINT VM was built in a similar way, to enable OSINT investigators participating in the Trace Labs Search Party CTF’s a quick way to get started and have access to the most popular OSINT tools and scripts all neatly packaged under one roof.
+  - https://github.com/tracelabs/tlosint-vm/releases
+  - https://gitlab.com/kalilinux/build-scripts/kali-vm
 
 ### **Miscellaneous**
 - PaperCall - Manage call for papers and talk submissions
@@ -944,10 +1054,19 @@ Audacity is free, open source software.
   https://dtmf.netlify.app/
 - Cult of the Party Parrot
   - https://cultofthepartyparrot.com/
+- Hugo - Hugo is a fast and modern static site generator written in Go, and designed to make website creation fun again.
+  - https://gohugo.io/about/
+  - https://github.com/matcornic/hugo-theme-learn
+-
 
 ## **System Administration**
 - Chocolatey - The Package Manager for Windows
   - https://chocolatey.org/
+- SadServers - Troubleshooting Scenarios
+  - https://sadservers.com/scenarios
+
+
+
 ### **Linux**
 - Glances - Curses-based System Monitoring Tool for Linux
   - https://www.tecmint.com/glances-an-advanced-real-time-system-monitoring-tool-for-linux/amp/
