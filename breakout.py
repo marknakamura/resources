@@ -39,7 +39,7 @@ with open("./Resources.md", "r") as file:
     filename = ""
     lines = file.readlines()
     for each in lines:
-        if test_header(each) == "h2":
+        if test_header(each) == "h2" or "Table of Contents" in each:
             print(filename)
             print(text_to_add)
             if filename != "":
