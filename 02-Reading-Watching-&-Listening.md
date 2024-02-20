@@ -1,3 +1,11 @@
+
+### **Books**
+- Building Virtual Machine Labs: A Hands-On Guide
+  - https://www.amazon.com/Building-Virtual-Machine-Labs-Hands/dp/1546932631
+- Detecting Fake Events in Azure Sign-in Logs
+  - https://www.inversecos.com/2023/01/detecting-fake-events-in-azure-sign-in.html
+
+### **Online Articles & Blogs**
 - DFIR and Threat Hunting
   - http://findingbad.blogspot.com/
 - Hunting with Splunk: The Basics
@@ -89,4 +97,101 @@
   - https://bishopfox.com/blog/edr-bypass-with-lolbins
 - EDR Bypass : Retrieving Syscall ID with Hell's Gate, Halo's Gate, FreshyCalls and Syswhispers2
   - https://alice.climent-pommeret.red/posts/direct-syscalls-hells-halos-syswhispers2/
+
+### **Videos**
+- MITRE ATT&CK: The Play at Home Edition
+  - https://www.youtube.com/watch?v=wlJElPA0xqY
+- Splunk for Security Investigation: Command and Control Analysis
+  - https://www.splunk.com/en_us/resources/videos/splunk-for-security-investigation-command-and-control-analysis.html
+- Splunk for Security Investigation: Ransomware
+  - https://www.splunk.com/en_us/resources/videos/splunk-for-security-investigation-ransomware.html
+- Splunk for Security Investigation: Threat Scoping
+  - https://www.splunk.com/en_us/resources/videos/splunk-for-security-investigation-threat-scoping.html
+- Splunk for Security Investigation: Threat Validation
+  - https://www.splunk.com/en_us/resources/videos/splunk-for-security-investigation-threat-validation.html
+- Splunk for Security Investigation: Threat Detection
+  - https://www.splunk.com/en_us/resources/videos/splunk-for-security-investigation-threat-detection.html
+- Red Canary Crash Course on Defender for Endpoint
+  - https://redcanary.com/integrations/microsoft-crash-course/
+- Live Incident Response with Velociraptor
+  - https://www.youtube.com/watch?v=Q1IoGX--814
+- Attack and Detect: Vulnhub Symfonos #2 vs NEW Security Onion Live | Can we detect the attack?
+  - https://www.youtube.com/watch?app=desktop&feature=youtu.be&v=LHJskuQNudc
+- Velociraptor - Digging Deeper
+  - https://www.youtube.com/watch?v=V8P4oNaQS4E
+- The Cyber Mentor - contains various lessons and off-topic stuff
+  - https://www.youtube.com/c/thecybermentor
+- 13Cubed - This channel covers information security-related topics including Digital Forensics and Incident Response (DFIR) and Penetration Testing, as well as tutorials and overviews of various apps and scripts Richard Davis has written
+  - https://www.youtube.com/c/13cubed/featured
+- Anuj Soni - I'm a Threat Researcher, SANS Certified Instructor and Course Author. I'm here to share my successes and failures analyzing malicious code. 
+  - https://www.youtube.com/@sonianuj
+- 1 - Brute Force (low/med/high) - Damn Vulnerable Web Application (DVWA)
+  - https://www.youtube.com/watch?v=SWzxoK6DAE4
+- [wazuh] this Cybersecurity Platform is FREE
+  - https://www.youtube.com/watch?app=desktop&v=i68atPbB8uQ&feature=youtu.be
+
+### **Podcasts**
+- Uncovering Hidden Risks
+  - https://www.radio.com/podcasts/uncovering-hidden-risks-45444
+- 
+
+### **Big Data**
+- Information is Beautiful
+  - https://informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/
+- 
+### **Twitter Handles to Follow**
+
+@Volexity
+- A security firm providing Incident Response, Proactive Threat Assessments, Trusted Advisory, and Threat Intelligence
+
+@Recon_InfoSec
+- Managed Detection & Response #MDR provider serving gov't, enterprise and critical infrastructure | Network Defense Range Training | http://OpenSOC.io Blue Team CTF
+
+@inversecos
+- lead incident responder & security researcher ⚔️
+
+@cyb3rops
+- Head of Research @ Nextron Systems #DFIR #YARA #Sigma | Detection Engineer | Creator of @thor_scanner, Aurora Agent, Sigma, LOKI, yarGen, Valhalla, Raccine
+
+@chrissanders88
+- Ed.D. | Founder @networkdefense @RuralTechFund | Former @Mandiant, DoD | Author: Intrusion Detection Honeypots, Practical Packet Analysis, Applied NSM
+
+@velocidex
+- Velocidex is the company behind Velociraptor
+
+@malwrhunterteam
+- More photos & gifs, less malware.
+
+@polak_jasper
+- Ex consultant on a mission to bring effective project management to tech SMBs • Scaling a $150M DTC portfolio • COO & skier
+
+@CVEnew
+- Official account maintained by the CVE Program to notify the community of new CVE IDs.
+
+@briankrebs
+- Independent investigative journalist. Covers cybercrime, security, privacy. Author of 'Spam Nation,' a NYT bestseller. Former Washington Post reporter, '95-'09
+
+@SwiftOnSecurity
+- Security person at a place. former helpdesk. they/them/tay. Microsoft MVP, Client Security
+
+@teamcymru
+- Our cyber threat intelligence is incomparable — Pure Signal™ — and our clients use it to make the world a safer place.
+
+@mattifestation
+- Matt Graeber (Principal Threat Researcher)
+
+@SpecterOps
+- Know Your Adversary - Adversary Simulation | Detection | Resilience
+
+@0xdf_
+- Training Architect @ HackTheBox | CTF Addict | Thoughts are my own | he/him
+
+@darkQuassar
+- I believe in community, human connection, concepts and puzzles. DFIR, CyberSec and bla, bla, bla... I own my opinions here, sometimes they own me.
+
+@Honeydbio
+- Sweet honey (honeydb.io honeypot Twitter account)
+
+@ArsenalRecon
+- Developers of #DFIR weapons which include Arsenal Image Mounter, Hibernation Recon, & Registry Recon. Arm Yourself!
 

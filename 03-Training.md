@@ -1,3 +1,5 @@
+
+### **Cyber Security**
 - VulnHub - Vulnerable Machines
   - https://www.vulnhub.com/
 - TryHackMe - Red & Blue Team Training
@@ -69,3 +71,55 @@
 - HackTricks - Welcome to the wiki where you will find each hacking trick/technique/whatever I have learnt from CTFs, real life apps, reading researches, and news.
   - https://book.hacktricks.xyz/welcome/readme
 
+### **Cloud Training**
+- AWS CIRT announces the release of five publicly available workshops
+  - https://aws.amazon.com/blogs/security/aws-cirt-announces-the-release-of-five-publicly-available-workshops/
+- SANS Cloud Free Tools
+  - https://www.sans.org/cloud-security/tools/?msc=cloud-security-lp
+- SANS Cloud Free Posters
+  - https://www.sans.org/posters/?focus-area=cloud-security&msc=cloud-security-lp
+- SANS Cloud Webinars
+  - https://www.sans.org/webcasts/?webcast-type&focus-area=cloud-security&msc=cloud-security-lp
+- SANS Cloud Courses
+  - https://www.sans.org/cyber-security-courses/?focus-area=cloud-security&msc=cloud-security-lp
+- Google Chronicle Learning Portal
+  - https://learn.chronicle.security/
+- Breaking Into The Cloud
+  - https://github.com/lazzslayer/Breaking-Into-The-Cloud-Slides
+
+
+### **Microsoft**
+- Microsoft Learning
+  - https://docs.microsoft.com/en-us/learn/
+- GCP - Chronicle Learning Portal
+  - https://learn.chronicle.security/
+- Microsoft 365 Developer Program - Get an instant sandbox preconfigured with sample data, including Teams Developer Portal, and start developing on the Microsoft 365 platform.
+  - https://developer.microsoft.com/en-us/microsoft-365/dev-program
+
+### **CTFs (Capture the Flag)**
+- OWASP Juice Shop - OWASP Juice Shop is probably the most modern and sophisticated insecure web application! It can be used in security trainings, awareness demos, CTFs and as a guinea pig for security tools! Juice Shop encompasses vulnerabilities from the entire OWASP Top Ten along with many other security flaws found in real-world applications!
+  - https://owasp.org/www-project-juice-shop/
+
+### **Walkthroughs**
+- MalwareTEch Beginner Malware Reversing Challenges
+  - https://medium.com/@davidagilman/malwaretech-beginner-malware-reversing-challenges-strings-walkthrough-9be8b234ddba
+
+### **Coding**
+- Programming with Python - Python for Beginners
+  - https://www.youtube.com/watch?v=jFCNu1-Xdsw&list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6
+- PowerShell vs Python Reference
+  - https://blog.ironmansoftware.com/powershell-vs-python/
+- Learn Git
+  - https://docs.github.com/en/get-started/quickstart/set-up-git
+- Exercism - Get really good at programming
+  - https://exercism.org/
+- Python Built-in Functions
+  - https://docs.python.org/3/library/functions.html
+- Invent with Python - Learn to Program. For free
+  - https://inventwithpython.com/
+- Learn Python the Hard Way: A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code
+  - https://www.oreilly.com/library/view/learn-python-the/9780133124316/
+- Postman Learning
+  - https://learning.postman.com/
+- A Self-Learning, Modern Computer Science Curriculum
+  - https://functionalcs.github.io/curriculum/

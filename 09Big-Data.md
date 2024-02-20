@@ -1,3 +1,0 @@
-- Information is Beautiful
-  - https://informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/
-- 

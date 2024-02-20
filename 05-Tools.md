@@ -1,0 +1,663 @@
+
+### **Red Team**
+- Pypykatz - Python Mimikatz
+  - https://github.com/skelsec/pypykatz
+- Red_Team - Red Team Scripts
+  - https://github.com/BankSecurity/Red_Team
+- Sub3 Suite - Research-grade suite of tools for subdomain enumeration, OSINT gathering, & attack surface mapping
+  - https://github.com/3nock/sub3suite
+- EDRSandBlast - Written in C that weaponzes a vulnerable signed driver to bypass EDR detection, multiple userland unhooking techniques are also implemented to evade userland monitoring
+  - https://github.com/wavestone-cdt/EDRSandblast
+- GoVanguard Main Security Testing Tools - Collection of security testing tools
+  - https://github.com/GoVanguard/main-security-testing-tools
+- Hakoriginfinder - Tool for discovering the origin host behind a reverse proxy
+  - https://github.com/hakluke/hakoriginfinder
+- Commando VM - Mandiant Windows Offensive VM
+  - https://github.com/mandiant/commando-vm
+  - https://www.mandiant.com/resources/commando-vm-windows-offensive-distribution
+- EDRHunt - Scans Windows services, drivers, processes, registry for installed EDRs
+  - https://github.com/FourCoreLabs/EDRHunt
+- C2 Matrix - Find out which C2 fits your needs
+  - https://www.thec2matrix.com/
+- GTFOBins - Cureated list of Unix binaries that can be abused to bypass local security restrictions in misconfigured systems
+  - https://gtfobins.github.io/
+- PowerShellArmoury - Download and store all of your favourite PowerShell scripts in a single, obfuscated file
+  - https://github.com/cfalta/PowerShellArmoury
+- GitOops! - GitOops is a tool to help attackers and defenders identify lateral movement and privilege escalation paths in GitHub organizations by abusing CI/CD pipelines and GitHub access controls
+  - https://github.com/ovotech/gitoops/
+- Xerror - Automated penetration tool, which will help security professionals and non-professionals to automate their pentesting tasks
+  - https://github.com/Chudry/Xerror
+- Shadow - Modular C2 framework designed to successfully operate on mature environments
+  - https://github.com/bats3c/shad0w
+- Windows Event Logs for Red Teams
+  - https://www.blackhillsinfosec.com/windows-event-logs-for-red-teams/
+- ClipboardInject - Abusing the clipboard to inject code into remote processes
+  - https://www.x86matthew.com/view_post?id=clipboard_inject
+- Hacker Tools - A list of hacking and CTF related tools
+  - https://www.runcmd.team/hacker-tools/
+- Red Teaming Experiments - Publicly accessible personal notes about pentesting / red teaming experiments in a controlled environment that involve playing with various tools and techniques used by penetration testers, red teams and actual adversaries
+  - https://www.ired.team/
+  - https://www.ired.team/offensive-security/credential-access-and-credential-dumping/dump-credentials-from-lsass-process-without-mimikatz
+- Impacket - collection of Python classes for working with network protocols
+  - https://github.com/SecureAuthCorp/impacket
+- Veil Framework - Veil is a tool designed to generate metasploit payloads that bypass common anti-virus solutions
+  - https://github.com/Veil-Framework/Veil
+- Pafish - Pafish is a testing tool that uses different techniques to detect virtual machines and malware analysis environments in the same way that malware families do
+  - https://github.com/a0rtega/pafish
+- S3cur3Th1sSh1t! - Pentesting, scripting, and pwning!
+  - https://github.com/S3cur3Th1sSh1t
+- Certifried combined with KrbRelayUp - Certifried combined with KrbRelayUp: non-privileged domain user to Domain Admin without adding/pre-owning computer accounts
+  - https://gist.github.com/tothi/f89a37127f2233352d74eef6c748ca25
+- Red-Teaming-Toolkit - This repository contains cutting-edge open-source security tools (OST) that will help you during adversary simulation and as information intended for threat hunter can make detection and prevention control easier.
+  - https://github.com/infosecn1nja/Red-Teaming-Toolkit
+- Windows Event Log Cheat Sheet
+  - https://www.13cubed.com/downloads/windows_event_log_cheat_sheet.pdf
+- KeyDecoder - KeyDecoder is a mobile app created for pentesters and security enthusiasts. From the picture of a key, one can measure its bitting easily.
+  - https://github.com/MaximeBeasse/KeyDecoder
+- Decider - A web application that assists network defenders, analysts, and researcher in the process of mapping adversary behaviors to the MITRE ATT&CK® framework
+  - https://github.com/cisagov/Decider/
+- BBOT - Bighuge BLS OSINT Tool - OSINT automation for hackers
+  - https://github.com/blacklanternsecurity/bbot
+- PostDump - C# tool to perform LSASS memory dump using few techniques to avoid detection
+  - https://github.com/post-cyberlabs/Offensive_tools/tree/main/PostDump
+- DROPS - dynamic cheat sheet for adversary tools
+  - https://sygnialabs.github.io/DROPS/
+- Havoc - modern and malleable post-exploitation command and control framework
+  - https://github.com/HavocFramework/Havoc
+- Harvis - designed to automate your C2 infrastructure, currently using Mythic C2
+  - https://github.com/thiagomayllart/Harvis
+- Stratus Red Team - Datadog, "Atomic Red Team" for the cloud, allowing to emulate offensive attack techniques in a granular and self-contained manner
+  - https://github.com/Datadog/stratus-red-team/
+- PrivFu - Kernel mode WinDbg extension and PoCs for testing how token privileges work
+  - https://github.com/daem0nc0re/PrivFu
+- Red Teaming Toolkit - Repository which contains cutting-edge open-source security tools that will help you during adversary simulation and as information intended for threat hunters to make detection and prevention easier
+  - https://github.com/infosecn1nja/Red-Teaming-Toolkit
+- SyscallPack - Beacon Object File and Shellcode for full DLL unhooking
+  - https://github.com/cube0x0/SyscallPack
+- SysWhispers3 - helps with evasion by generating header/ASM files implants can use to make direct system calls
+  - https://github.com/klezVirus/SysWhispers3
+- Inceptor - modern penetration testing and Red Teaming oftern requires to bypass common AV/EDR appliances in order to execute code on a target; Inceptor is a tool which can help to automate great part of this process
+  - https://github.com/klezVirus/inceptor
+- Arsenal Recon - Free tools including Arsenal Image Mounter, Registry Recon, Hive Recon, LevelDB Recon, Hibernation Recon, HBIN Recon, ODC Recon
+  - https://arsenalrecon.com/downloads
+- Blackout - Leverages gmer driver to effectively disable or kill EDRs and AVs
+  - https://github.com/ZeroMemoryEx/Blackout
+- TokenTactics - Azure JSON Web Token ("JWT") Manipulation Toolset
+  - https://github.com/rvrsh3ll/TokenTactics
+- PentestGPT - A GPT-empowered penetration testing tool.
+  - https://github.com/GreyDGL/PentestGPT
+- PingCastle - Ping Castle is a tool designed to assess quickly the Active Directory security level with a methodology based on risk assessment and a maturity framework. It does not aim at a perfect evaluation but rather as an efficiency compromise.
+  - https://github.com/vletoux/pingcastle
+- Testimo - Testimo is a PowerShell Module to help with basic/more advanced testing of Active Directory and maybe in future other types of servers. Testimo is an alpha product and as such things do change. It's goal is to be fully automated solution where one can run the command and get results without executing 50 little functions.
+  - https://github.com/EvotecIT/Testimo
+- Forensia - Anti Forensics Tool For Red Teamers, Used For Erasing Some Footprints In The Post Exploitation Phase.
+  - https://github.com/PaulNorman01/Forensia
+- Red Cloud OS - RedCloudOS is a Cloud Adversary Simulation Operating System for Red Teams to assess the Cloud Security of Leading Cloud Service Providers (CSPs)
+  - https://github.com/RedTeamOperations/RedCloud-OS?fbclid=IwAR1Xw-3j9G0idP9bnitDP8VW1HlgSREa8G96BKL1JTczZ5xO4euRtHlpsl4
+- SOC Multi-Tool - A Powerful And User-Friendly Browser Extension That Streamlines Investigations For Security Professionals
+  - https://www.kitploit.com/2023/07/soc-multitool-powerful-and-user.html?m=1
+- Scanner's Box - Scanners Box also known as scanbox, is a powerful hacker toolkit, which has collected more than 10 categories of open source scanners from Github, including subdomain, database, middleware and other modular design scanner etc.
+  - https://github.com/We5ter/Scanners-Box
+- cybergoatpsyops Detections
+  - https://github.com/cybergoatpsyops/detections
+- Pentesting Azure - Recon Techniques
+  - https://securitycafe.ro/2022/04/29/pentesting-azure-recon-techniques/
+- RedTeam-OffensiveSecurity - NOTES https://www.ired.team/ (RED TEAMING)
+  - https://github.com/bigb0sss/RedTeam-OffensiveSecurity
+- ADMiner - ADMiner is an Active Directory audit tool that leverages cypher queries to crunch data from the BloodHound graph database (neo4j) and gives you a global overview of existing weaknesses through a web-based static report, including detailed listing, dynamic graphs, key indicators history, along with risk ratings.
+  - https://github.com/Mazars-Tech/AD_Miner
+- MFASweep - MFASweep is a PowerShell script that attempts to log in to various Microsoft services using a provided set of credentials and will attempt to identify if MFA is enabled. Depending on how conditional access policies and other multi-factor authentication settings are configured some protocols may end up being left single factor. It also has an additional check for ADFS configurations and can attempt to log in to the on-prem ADFS server if detected.
+  - https://github.com/dafthack/MFASweep
+- EDRSandblast - EDRSandBlast is a tool written in C that weaponize a vulnerable signed driver to bypass EDR detections (Notify Routine callbacks, Object Callbacks and ETW TI provider) and LSASS protections. Multiple userland unhooking techniques are also implemented to evade userland monitoring.
+  - https://github.com/lleon1435/EDRSandblast
+- NetExec - This project was initially created in 2015 by @byt3bl33d3r, known as CrackMapExec. In 2019 @mpgn_x64 started maintaining the project for the next 4 years, adding a lot of great tools and features. In September 2023 he retired from maintaining the project.
+  - https://github.com/Pennyw0rth/NetExec
+- onedrive_user_enum - enumerate valid onedrive users
+  - https://github.com/nyxgeek/onedrive_user_enum
+  - https://www.trustedsec.com/blog/onedrive-to-enum-them-all/
+- APT38-0day-0Stealer - A program that automates the APT38 technique, which has been utilized to target cybersecurity researchers experts
+  - https://github.com/ZeroMemoryEx/APT38-0day-Stealer
+- GraphRunner - GraphRunner is a post-exploitation toolset for interacting with the Microsoft Graph API. It provides various tools for performing reconnaissance, persistence, and pillaging of data from a Microsoft Entra ID (Azure AD) account.
+  - https://github.com/dafthack/GraphRunner/
+- Pacu - The Open Source AWS Exploitation Framework
+  - https://rhinosecuritylabs.com/aws/pacu-open-source-aws-exploitation-framework/
+- Nemesis - Nemesis is a centralized data processing platform that ingests, enriches, and performs analytics on offensive security assessment data (i.e., data collected during penetration tests and red team engagements).​​ Nemesis was created by Lee Chagolla-Christensen, Will Schroeder, and Max Harley from SpecterOps.
+  - https://github.com/SpecterOps/Nemesis
+  - https://www.helpnetsecurity.com/2023/12/12/nemesis-specterops-data-enrichment-analytic-pipeline/
+- RedEye - This project was built by pentesters for pentesters. Redeye is a tool intended to help you manage your data during a pentest operation in the most efficient and organized way.
+  - https://www.kitploit.com/2023/08/redeye-tool-intended-to-help-you-manage.html
+  - https://github.com/redeye-framework/Redeye
+- TruffleHog - search for secrets
+  - https://github.com/trufflesecurity/trufflehog
+- egressbuster - EgressBuster is a way to test the effectiveness of egress filtering for an individual area. When performing a penetration test, often times companies leverage egress filtering in order to prevent access to the outside Internet. Most companies have special exceptions and allow ports but they may be difficult to find.
+  - https://github.com/trustedsec/egressbuster
+- Arsenal - Arsenal is just a quick inventory, reminder and launcher for pentest commands. This project written by pentesters for pentesters simplify the use of all the hard-to-remember commands
+  - https://github.com/Orange-Cyberdefense/arsenal/tree/master
+- ProcessStomping - A variation of ProcessOverwriting to execute shellcode on an executable's section
+  - https://github.com/naksyn/ProcessStomping
+- Invoke-SessionHunter - Retrieve and display information about active user sessions on remote computers. No admin privileges required.
+  - https://github.com/Leo4j/Invoke-SessionHunter
+- Hell Shell - HellShell Supports 3 types of obfuscated shellcode output, all as arrays
+  - https://github.com/NUL0x4C/HellShell
+- Awesome EDR Bypass - EDR bypass technology is not just for attackers. Many malware now have EDR bypass capabilities, knowledge that pentesters and incident responders should also be aware of. This repository is not intended to be used to escalate attacks. Use it for ethical hacking.
+   - https://github.com/tkmru/awesome-edr-bypass
+- Awesome-AV-EDR-XDR-Bypass - Welcome to this repository! The purpose of this repository is to gather as many techniques and tools as possible to circumvent AVs, EDRs and XDRs so that it can help you throughout your pentest.
+  - https://github.com/MrEmpy/Awesome-AV-EDR-XDR-Bypass
+- BypassAV - This map lists the essential techniques to bypass anti-virus and EDR
+  - https://github.com/matro7sh/BypassAV
+- Windows-API-For-Red-Team - This repository is a compilation of the main Windows APIs for use in PenTest, Red Team operations and Malware Analysis
+  - https://github.com/CyberSecurityUP/Windows-API-for-Red-Team
+- LOLDrivers - Welcome to LOLDrivers (Living Off The Land Drivers), an exciting open-source project that brings together vulnerable, malicious, and known malicious Windows drivers in one comprehensive repository. Our mission is to empower organizations of all sizes with the knowledge and tools to understand and address driver-related security risks, making their systems safer and more reliable.
+  - https://github.com/magicsword-io/LOLDrivers
+- NimBlackout - NimBlackout is an adaptation of the @Blackout project originally developed in C++ by @ZeroMemoryEx, which consists of removing AV/EDRs using the gmer (BYOVD) driver.
+  - https://github.com/Helixo32/NimBlackout
+- RecycledGate - This is just another implementation of Hellsgate + Halosgate/Tartarusgate. However, this implementation makes sure that all system calls still go through ntdll.dll to avoid the usage of direct systemcalls. To do so, I parse the ntdll for nonhooked syscall-stubs and re-use existing syscall;ret instructions - thus the name of this project. 
+  - https://github.com/thefLink/RecycledGate
+- Tartarus' Gate - Hell's Gate evolved to Halo's Gate to bypass EDRs by unhooking some of them and now it turned to Tartarus' Gate to handle even more WINAPI hooking methods.
+  - https://github.com/trickster0/TartarusGate
+- UnhookingPatch - Bypass EDR Hooks by patching NT API stub, and resolving SSNs and syscall instructions at runtime
+  - https://github.com/TheD1rkMtr/UnhookingPatch
+- java-gate - The java-gate project allows for the implementation of various techniques related to "Hell's Gate" using simple Java code, which involves direct system calls.
+  - https://github.com/4ra1n/java-gate
+- tricker0's Nest - Pentester / Red Teamer / Malware Dev / Exploit Dev / Security Researcher
+  - https://trickster0.github.io/
+- ReleaseTheHounds - Tool to interact with BloodHound CE API.
+  - https://github.com/deletehead/ReleaseTheHounds
+
+### **Blue Team**
+- HFish Honeypot Platform
+  - https://hackingpassion.com/hfish-a-honeypot-platform/
+- Malboxes - Prebuilt Malware Analysis Windows Boxes
+  - https://github.com/GoSecure/malboxes
+- Splunk Attack Range - Detection Development Platform
+  - https://github.com/splunk/attack_range
+- Splunk N' Box - Containerized Splunk Environment
+  - https://github.com/mhassan2/splunk-n-box
+- SOF-ELK - SIEM Platform focused on forensic investigators/analysts
+  - https://github.com/philhagen/sof-elk
+- SELKS - IDS/IPS/Network Security Monitoring Platform
+  - https://github.com/StamusNetworks/SELKS
+- Threat Hunter Playbook - Community-driven, open-source project to share detection logic, adversary tradecraft, and resources to make detection development more efficient
+  - https://github.com/OTRF/ThreatHunter-Playbook
+- Defiance - SIEM
+  - https://www.youtube.com/watch?v=zggDOk4Q_Yc
+- Awesome-SOAR List - Curated Cyber "Security Orchestration, Automation, and Response (SOAR)" resources list
+  - https://github.com/correlatedsecurity/Awesome-SOAR
+- Hayabusa - Windows Event Log fast forensics timeline generator and threat hunting tool
+  - https://github.com/Yamato-Security/hayabusa
+- APT-Hunter - Threat hunting tool for Windows Event Logs to detect APT movements
+  - https://github.com/ahmedkhlief/APT-Hunter
+- Awesome Event IDs - Resource containing many other resources for Windows Events
+  - https://github.com/stuhli/awesome-event-ids
+- Chainsaw - Rapidly serach and hunt through Windows Event Logs
+  - https://github.com/countercept/chainsaw
+- DeepBlueCLI - PowerShell module for threat hunting via Windows Event Logs
+  - https://github.com/sans-blue-team/DeepBlueCLI
+  - https://www.socinvestigation.com/deepbluecli-powershell-module-for-threat-hunting/
+- Epagneul - Visualize and investigate Windows Event Logs
+  - https://github.com/jurelou/epagneul
+- EventList - A tool to help improve your audit capability and build your SOC
+  - https://github.com/miriamxyra/EventList/
+- EvtxECmd - Contains all the Maps used by Eric Zimmerman's EvtxECMD
+  - https://github.com/EricZimmerman/evtx
+- EVTXtract - Recovers and reconstructs fragments of EVTX log files from raw binary data, including unallocated space and memory images
+  - https://github.com/williballenthin/EVTXtract
+- EvtxToElk - A Python Module to Load Windows Event Logs into ElasticSearch
+  - https://www.dragos.com/blog/industry-news/evtxtoelk-a-python-module-to-load-windows-event-logs-into-elasticsearch/
+- EVTX-ATTACK-SAMPLES - Windows Events samples associated to specific attack and post-exploitation techniques
+  - https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES
+- EVTX-to-MITRE-Attack - Security Information Management System with >200 Windows IOCs classified per Tactic and Technique in order to address different security scenarios with your SIEM
+  - https://github.com/mdecrevoisier/EVTX-to-MITRE-Attack
+- EVTX - Cross-platform parser for the Windows XML EventLog format
+  - https://github.com/omerbenamram/evtx
+- Grafiki - Django project about Sysmon and graphs
+  - https://github.com/lucky-luk3/Grafiki
+- LogonTracer - Investigate malicious logons by visualizing and analyzing Windows Active Directory event logs
+  - https://github.com/JPCERTCC/LogonTracer
+- RustyBlue - Rust implement of DeepBlueCLI that detects various Windows attacks by analyzing event logs
+  - https://github.com/Yamato-Security/RustyBlue
+- Sigma - Generic and open signature format that allows you to describe relevant log events in a straightforward manner
+  - https://github.com/SigmaHQ/sigma
+- Security Onion - Import EVTX
+  - https://docs.securityonion.net/en/2.3/so-import-evtx.html
+- Sysmon Tools - Sysmon View, Sysmon Shell, Sysmon Box
+  - https://github.com/nshalabi/SysmonTools
+- Eric Zimmerman Tools - DFIR tool suite
+  - https://ericzimmerman.github.io/#!index.md
+- WELA (Windows Event Log Analyzer) - Aims to be the Swiss Army knife for Windows event logs
+  - https://github.com/Yamato-Security/WELA
+- Zircolite - Standalone SIGMA-based detection tool for EVTX, Auditd, Sysmon for Linux, or JSONL/NDJSON logs
+  - https://github.com/wagga40/Zircolite
+- Kibana Dashboards
+  - https://github.com/Pluralsight-SORCERI/Threat-Hunting-Resources/tree/main/Kibana%20Dashboards
+- PSBits - Simple (relatively) solutions allowing you to dig a bit deeper than usual
+  - https://github.com/gtworek/PSBits
+  - https://github.com/gtworek/PSBits/tree/master/NetstatWithTimestamps
+- WMI_Forensics - Contains scripts used to find evidence in WMI repositories, specifically OBJECTS.DATA files
+  - https://github.com/davidpany/WMI_Forensics
+- PowerDecode - A PowerShell script decoder dedicated to malware analysis
+  - https://simargl.eu/download/PowerDecode-SIMARGL.pdf
+- Flare-WMI - Python-cim is a pure Python parser for the Microsoft Windows CIM (CMI) repository database
+  - https://github.com/mandiant/flare-wmi/tree/master/python-cim
+- RE&CT - Designed for accumulating, describing, and categorizing actionable Incident Response techniques
+  - https://atc-project.github.io/atc-react/
+- USN-Journal-Parser
+  - https://github.com/PoorBillionaire/USN-Journal-Parser
+- Network Situational AWareness (NetSA) group at CERT - developed and maintains a suite of open source tools for monitoring large-scal networks using flow data
+  - https://tools.netsa.cert.org/index.html
+- Hindsight - Internet history forensics for Google Chrome/Chromium
+  - https://github.com/obsidianforensics/hindsight
+- Active Countermeasures - Free tools
+  - https://www.activecountermeasures.com/free-tools/
+- Volatility Memory Samples - Publicly available memory samples for testing purposes
+  - https://github.com/volatilityfoundation/volatility/wiki/Memory-Samples
+- Hatching Triage - Malware analysis sandbox designed for Windows, Android, Linux, and macOS
+  - https://tria.ge/
+- HELK - Hunting ELK with advanced analytics capabilities
+  - https://securitydatasets.com/consume/helk.html
+- NETRESEC - Publicly available PCAP files
+  - https://www.netresec.com/?page=PcapFiles
+- NETRESEC Network Miner - Open source Network Forensic Analysis Tool for Windows (also works in Linux, macOSX, FreeBSD)
+  - https://www.netresec.com/?page=NetworkMiner
+- ViTee - Python-based tool that allows you to leverage Virus Total's API
+  - https://github.com/TURROKS/ViTee
+- Portmaster - An open source cross-platform network monitor
+  - https://www.ghacks.net/2022/05/16/first-look-at-portmaster-an-open-source-cross-platform-network-monitor/
+- Prefetch Hash Calculator - A Hash lookup table xp/vista/w7/w2k3/w2k8
+  - https://www.hexacorn.com/blog/2012/06/13/prefetch-hash-calculator-a-hash-lookup-table-xpvistaw7w2k3w2k8/
+- MalAPI.io - Maps Windows APIs to common techniques used by malware
+  - https://malapi.io/
+- Memory Baseliner
+  - https://github.com/csababarta/memory-baseliner
+  - https://www.sans.org/blog/power-up-memory-forensics-with-memory-baseliner/?utm_medium=Social&utm_source=Twitter&utm_content=FOR508_Chad_TIlbury_Blog_VMR&utm_campaign=DFIR%20Blog
+- DoublePulsar Detection Script - Sweeps a list of IPs for presence of both SMB and RDP versions of the DOUBLEPULSAR implant that was released by Shadow Brokers
+  - https://github.com/countercept/doublepulsar-detection-script
+- DoublePulsar C2 Traffic Decryptor - Decrypt the C2 traffic used by the DOUBLEPULSAR SMB implant from a PCAP file
+  - https://github.com/countercept/doublepulsar-detection-script
+- MalwareBazaar - Project from abuse.ch with the goal of sharing malware samples with the infosec community, AV vendors, and threat intelligence providers
+  - https://bazaar.abuse.ch/
+- Canary Tokens - Get a free token which if used, will give a notification
+  - https://canarytokens.org/generate
+- ThreatPursuit - Mandiant Threat Intelligence VM
+  - https://github.com/mandiant/ThreatPursuit-VM
+- Flare - Mandiant Malware Analysis VM
+  - https://github.com/mandiant/flare-vm
+  - https://www.mandiant.com/resources/flare-vm-the-windows-malware
+- Velociraptor-to-Timesketch - Automate Velociraptor to super timeline in Timesketch
+  - https://github.com/ReconInfoSec/velociraptor-to-timesketch
+- CAPA - Mandiant malware analysis tool
+  - https://www.socinvestigation.com/fireeyes-open-source-tool-capa-to-identify-malware-capabilities-2/
+- CERT Linux Forensics Tool Repository - Provides many useful packages for cyber forensics acquisition and analysis practitioners
+  - https://forensics.cert.org/#amazonsupport
+- SANS Cyber Security Tools - SANS instructors have built open source tools that support your work and help you implement better security
+  - https://www.sans.org/tools/
+- NirSoft - Collection of security tools
+  - http://www.nirsoft.net/
+- Uncoder.io - Online Sigma translation engine for SIEM saved searches, filters, queries, API requests
+  - https://uncoder.io/
+- Live Forensicator - Live Forensicator is part of the Black Widow Toolbox, its aim is to assist Forensic Investigators and Incidence responders in carrying out a quick live forensic investigation
+  - https://github.com/Johnng007/Live-Forensicator
+- NoMoreRansom - Help victims of ransomware retrieve their encrypted data without having to pay the criminals
+  - https://www.nomoreransom.org/en/index.html
+- Azure AD Incident Reponse PowerShell Module - Provides a number of tools, developed by the Azure Active Directory Product Group in conjunction with the Microsoft Detection and Response Team (DART), to assist in compromise response
+  - https://github.com/AzureAD/Azure-AD-Incident-Response-PowerShell-Module
+- EyeOfSauron - Three PowerShell scripts designed to collect and analyze data from Windows systems
+  - https://github.com/Anubis876/EyeOfSauron
+- Ropper - Display information about binary files in different file formats and you can search for gadgets to build rop chains for different architectures
+  - https://github.com/sashs/ropper
+- Ghidra Data - Companion repository to Ghidra source code repository; place to put datasets that improve Ghidra
+  - https://github.com/0x6d696368/ghidra-data
+- REtoolkit - Reverse Engineer's Toolkit - collection of tools you may like if you are interested in reverse engineering and/or malware analysis on x86/x64 Windows systems
+  - https://github.com/mentebinaria/retoolkit
+- Yeti - Platform meant to organize observables, indicators of compromise, TTPs, and knowledge on threats in a single, unified repository
+  - https://github.com/yeti-platform/yeti
+- MITRE ATT&CK Navigator - Web-based tool for anotating and exploring ATT&CK matrices
+  - https://mitre-attack.github.io/attack-navigator/
+- PANDA - Open-source Platform for Architecture-Neutral Dynamic Analysis
+  - https://github.com/panda-re/panda
+- Linux Forensics Intro - Hal Pomeranz
+  - https://archive.org/details/HalLinuxForensics/mode/2up
+- dnstwist - Find lookalike domains that adversaries can use to attack you
+  - https://github.com/elceef/dnstwist
+- RegRipper - Get data quickly out of the Registry whether you are doing it for incident response or forensics
+  - https://github.com/keydet89/RegRipper3.0
+- RegRipper Advanced IP Scanner Plugin
+  - https://github.com/ithor-forensics/rr_plugins
+- BlueHound - Helps blue teams pinpoint the security issues that actually matter
+  - https://zeronetworks.com/blog/bluehound-community-driven-resilience/
+- Neo23x0 - Forked and modified version of @SwiftOnSecurity's sysmon config
+  - https://github.com/Neo23x0/sysmon-config
+- MemProcFS - Easy and convenient way of viewing physical memory as files in a virtual file system
+  - https://github.com/ufrisk/MemProcFS
+- Antivmdetection - A script to help you create templates, which you can use with VirtualBox to make VM detection harder
+  - https://github.com/nsmfoo/antivmdetection
+- VMCloak - Automated Virtual Machine Generation and Cloaking for Cuckoo Sandbox
+  - https://github.com/hatching/vmcloak
+- MalShare Project - collaborative effort to create a community driven public malware repository that works to build additional tools to benefit the security community at large
+  - https://www.malshare.com/about.php
+- Object-See - a public collection of malicious code targeting macOS
+  - https://objective-see.org/malware.html
+- DotSpotter - discover the tracking dots on a scanned document
+  - https://www.forensicdots.de/dotspotter
+- HoneyDB - HoneyDB provides real time data of honeypot activity. This data comes from honeypot sensors deployed globally on the Internet.
+  - https://honeydb.io/deploy
+- Threatest - a Go framework for end-to-end testing of threat detection rules
+  - https://securitylabs.datadoghq.com/articles/threatest-end-to-end-testing-threat-detection/
+- Magnet Forensics - Free Digital Forensics Tools Every Investigator Needs
+  - https://www.magnetforensics.com/blog/free-digital-forensics-tools-every-investigator-needs/?utm_source=LinkedIn&utm_medium=Organic&utm_campaign=2022_AXIOM_Social
+- Antivirus Event Analysis Cheat Sheet v1.11.0
+  - https://www.nextron-systems.com/2023/01/13/antivirus-event-analysis-cheat-sheet-v1-11-0/
+- Kestrel - threat hunting language aiming to make cyber threat hunting fast by providing a layer of abstraction to build reusable, composable, and shareable hunt-flow
+  - https://github.com/opencybersecurityalliance/kestrel-lang
+- rOSac - routerOS Artifact Collector - simple tool designed for incident response on potentially compromised routerOS products
+  - https://github.com/Linkavych/rOSac
+- TheHive - scalable Security Incident Response Platform, tightly integrated with MISP designed to make life easier for SOCs, CSIRTs, CERTs, and any information security practitioner dealing with security incidents that need to be investigated and acted upon swiftly
+  - http://thehive-project.org/
+  - https://docs.strangebee.com/thehive/download/
+- Snort-Rules - A nice nollection of Snort 2 and 3 Rules. Includes community edition and snapshot clone of another Github repository.
+  - https://github.com/thereisnotime/Snort-Rules
+- gVisor - The Container Security Platform
+  - https://gvisor.dev/docs/
+- Detecting Abused Legitimate Tools Applied by Hackers in the Human-Operated Ransomware Attacks
+  - https://socprime.com/blog/detecting-abused-legitimate-tools-applied-by-hackers-in-the-human-operated-ransomware-attacks/
+  - https://socprime.com/rs/search-result?search=abuse_legit_sync_and_rmm_tools
+- Detection Content: Ransom X Behavior
+  - https://socprime.com/blog/detection-content-ransom-x-behavior/
+- Backdoors & Breaches Online - Online version; This is Backdoors & Breaches, an Incident Response Card Game, from Black Hills Information Security and Active Countermeasures. Backdoors & Breaches contains 52 unique cards to help you conduct incident response tabletop exercises and learn attack tactics, tools, and methods.
+  - https://play.backdoorsandbreaches.com/
+- Group Policy Eater / GPOZaurr - Group Policy Eater is a PowerShell module that aims to gather information about Group Policies but also allows fixing issues that you may find in them. GPOZaurr provides 360 degrees of information about Group Policies and their settings.
+  - https://github.com/EvotecIT/GPOZaurr
+- Hardening Kitty - HardeningKitty supports hardening of a Windows system. The configuration of the system is retrieved and assessed using a finding list. In addition, the system can be hardened according to predefined values. HardeningKitty reads settings from the registry and uses other modules to read configurations outside the registry.
+  - https://github.com/scipag/HardeningKitty
+- Threat Composer - threat-composer provides a prescriptive threat articulation structure, this helps users create threat statements with less effort. The tool supports starting from any part of the threat statement, and encourages the user to be more complete and descriptive to help ensure the threat statement allows for both for prioritization for mitigation and sufficient information to devise mitigation strategies.
+  - https://github.com/awslabs/threat-composer
+- Purple Knight - #1 Active Directory security assessment community tool
+  - https://www.purple-knight.com/
+- Forest Druid - Forest Druid flips the script, taking an inside-out approach to attack path management. Forest Druid focuses on attack paths leading into the Tier 0 perimeter—saving time by prioritizing your most critical assets.
+  - https://www.purple-knight.com/forest-druid/
+- Awesome_Incident_Response - Welcome to "Awesome Incident Response" the ultimate open-source repository designed to simplify and guide you through the intricate world of incident response!
+  - https://github.com/hevnsnt/Awesome_Incident_Response/tree/main
+- Malcore - Malcore is an advanced sandbox solution that is designed with speed and scalability in mind. Most leading sandbox solutions can take multiple minutes to perform analysis on a single file, Malcore solves this problem by taking seconds where it takes minutes. This allows Malcore to scale faster and larger than leading solutions by allowing more requests per day. Where other tools fall short is where Malcore thrives.
+  - https://malcore.io/
+- Harden Windows Security
+  - https://github.com/HotCakeX/Harden-Windows-Security/wiki
+- Start.me Forensics - curated list of forenic resources
+  - https://start.me/p/q6mw4Q/forensics
+- Start.me Threat Intelligence - curated list of threat intelligence resources
+  - https://start.me/p/wMrA5z/cyber-threat-intelligence
+- Microsoft Incident Response Playbooks - You need to respond quickly to detected security attacks to contain and remediate its damage. As new widespread cyberattacks happen, such as Nobellium and the Exchange Server vulnerability, Microsoft will respond with detailed incident response guidance.
+  - https://learn.microsoft.com/en-us/security/operations/incident-response-playbooks
+- Belkasoft T - Belkasoft T is a free tool that designed to assist in situations when an investigator or a first responder is at the scene of incident and needs to quickly identify and obtain specific digital evidence stored on a Windows machine.
+  - https://belkasoft.com/t
+- PersistenceSniper - PersistenceSniper is a Powershell module that can be used by Blue Teams, Incident Responders and System Administrators to hunt persistences implanted in Windows machines. It is also available on Powershell Gallery and it is digitally signed with a valid code signing certificate.
+  - https://github.com/last-byte/PersistenceSniper
+- MITRE D3FEND - A knowledge graph of cybersecurity countermeasures
+  https://d3fend.mitre.org/
+- SIEM_SETUP_ELASTIC - This script automates the installation and configuration of Elasticsearch, Kibana, and Filebeat for setting up a Security Information and Event Management (SIEM) system. It guides you through the necessary steps, prompting for user input when needed. Please note this script will not support for the versions of 8.x or above.
+  - https://github.com/samiul008ghub/SIEM_SETUP_ELASTIC
+- ELITEWOLF - This repository contains various ICS/SCADA/OT focused signatures and analytics. The end goal is to enable Critical Infrastructure Defenders, Intrusion Analysts, and others to implement continuous and vigilant system monitoring. WARNING: These signatures/analytics aren't necessarily malicious activity. They require follow on analysis to truly determine if this activity is malicious or not.
+  - https://github.com/nsacyber/elitewolf;
+- misp-playbooks - MISP playbooks address common use-cases encountered by SOCs, CSIRTs or CTI teams to detect, react and analyse specific intelligence received by MISP.
+  - https://github.com/MISP/misp-playbooks
+- Sublime Platform -A free and open platform for detecting and preventing email attacks like BEC, malware, and credential phishing. Gain visibility and control, hunt for advanced threats, and collaborate with the community.
+  - https://github.com/sublime-security/sublime-platform
+  - https://sublime.security/integrations#mailboxes
+- forensictools - forensictools is a toolkit designed for digital forensics, offering a wide array of tools. Its primary goal is to simplify the creation of a virtual environment for conducting forensic examinations.
+  - https://github.com/cristianzsh/forensictools
+- AuthLogParser - AuthLogParser is a powerful Digital Forensics and Incident Response tool designed specifically for analyzing Linux authentication logs, commonly known as auth.log. This tool serves as an invaluable asset for Incident Responders, streamlining the process of investigating security incidents on Linux systems. AuthLogParser meticulously scans the auth.log log file, extracting key information such as SSH logins, user creations, event names, IP addresses, and more.
+  - https://github.com/YosfanEilay/AuthLogParser
+- RootA - RootA is a public-domain language for collective cyber defense, created to make threat detection, incident response, and actor attribution simple. It acts as an open-source wrapper on top of the majority of existing SIEM, EDR, XDR, and Data Lake query languages. If you learn the basics of RootA, you will be able to contribute to collective defense. And if you have mastered a specific SIEM language, with RootA and Uncoder IO you can speak them all.
+  - https://roota.io/
+- Impede.ai - Unleash the power of advanced detection engineering.
+  - https://impede.ai/
+- The RULER Project - Currently I have no plans on documenting 'what you should log', this is more about what is enabled by default.
+  - https://ruler-project.github.io/ruler-project/
+- Incident Response Plan Template
+  - https://github.com/CyberSecurityUP/information-security-relatory/blob/master/Incident%20Response%20Plan%20Template.docx
+
+### **Purple Team**
+- Seclab - This repo aims to provide a lightly-automated starting point for creating virtual labs for security research. To accomplish this, we rely on 4 technologies
+  - https://github.com/mttaggart/seclab
+- ransomware-simulator - The goal of this repository is to provide a simple, harmless way to check your AV's protection on ransomware.
+  https://github.com/NextronSystems/ransomware-simulator/
+
+
+### **Ransomware-Specific**
+- ransomwatch - provides a group index, recent DLS posts, group profiles, and statistic/graph page
+  - https://ransomwatch.telemetry.ltd/#/
+- Ransom Look - provides a group index, forum and market links, a listing of data leaks, telegram messages, and statistic/graph pages
+  - https://www.ransomlook.io/
+  - https://github.com/RansomLook/RansomLook
+- Ransom.Wiki - focuses more on allowing users to search for recent victims and/or ransomware groups by name
+  - https://ransom.wiki/
+- DarkFeed - provides several resources for identifying ransomware DLS and blog information
+  - https://darkfeed.io/ransomwiki/
+- rcmatrix - The Ransomware Control Matrix (RCX) is a comprehensive framework designed to help organizations protect against ransomware attacks. It provides a structured approach to identifying and implementing effective controls at different levels of maturity, from foundational to elite, and includes both detection and mitigation controls.
+  - https://rcxmatrix.org/
+- NoMoreRansom - The battle is over for these ransomware threats. If you have been infected with one of these types of ransomware click on the link under its name and it will lead you to a decryption tool.
+  - https://www.nomoreransom.org/
+- White Phoenix - can decrypt intermittent (partially) encrypted ransomware
+  - https://www.darkreading.com/attacks-breaches/free-tool-unlocks-some-encrypted-data-in-ransomware-attacks
+  - https://github.com/cyberark/White-Phoenix
+- CloudFox - CloudFox helps you gain situational awareness in unfamiliar cloud environments. It’s an open source command line tool created to help penetration testers and other offensive security professionals find exploitable attack paths in cloud infrastructure.
+  - https://github.com/BishopFox/cloudfox
+- BlackSky Cloud Hacking - BlackSky is our new set of pentesting labs for business which is built on AWS, Google Cloud Platform, and Microsoft Azure for cloud hacking. Train your employees in cloud security!
+  - https://www.hackthebox.com/blog/BlackSky-cloud-hacking
+
+### **Cloud**
+- Nextcloud
+  - https://nextcloud.com
+- Vultr - IaaS (Infrastructure as a Service)
+  - https://www.vultr.com/pricing/
+- Azure AD Incident Response PowerShell Module
+  - https://github.com/AzureAD/Azure-AD-Incident-Response-PowerShell-Module
+- CSPM Evaluation Matrix - A copy of the slides used during the fwd:cloudsec talk by David White
+  - https://github.com/Nextdoor/cspm_evaluation_matrix
+- Azure Active Directory security operations guide - Microsoft has a successful and proven approach to Zero Trust security using Defense in Depth principles that use identity as a control plane. Organizations continue to embrace a hybrid workload world for scale, cost savings, and security. Azure Active Directory (Azure AD) plays a pivotal role in your strategy for identity management. Recently, news surrounding identity and security compromise has increasingly prompted enterprise IT to consider their identity security posture as a measurement of defensive security success.
+  - https://learn.microsoft.com/en-us/azure/active-directory/architecture/security-operations-introduction
+- TierZeroTable - Table of AD and Azure assets and whether they belong to Tier Zero.
+  - https://github.com/SpecterOps/TierZeroTable
+
+
+### **Automation & Containers**
+- Apache Airflow
+  - https://airflow.apache.org/
+- Rancher - Kubernetes Orchestrator
+  - https://rancher.com/docs/rancher/v2.x/en/
+- KillerCoda - Playgrounds have no tasks or questions and can be used to work on things from scratch. The CKS, CKA and CKAD ones will always have the same K8s version as currently used in the Linux Foundation exams.
+  - https://killercoda.com/playgrounds/
+- Falco - Falco is a cloud native runtime security tool for Linux operating systems. It is designed to detect and alert on abnormal behavior and potential security threats in real-time. At its core, Falco is a kernel monitoring and detection agent that observes events, such as syscalls, based on custom rules. Falco can enhance these events by integrating metadata from the container runtime and Kubernetes. The collected events can be analyzed off-host in SIEM or data lake systems.
+  - https://falco.org/docs/
+- Tetragon - Cilium Tetragon component enables powerful realtime, eBPF-based Security Observability and Runtime Enforcement.
+Tetragon detects and is able to react to security-significant events, such as
+Process execution events
+System call activity
+I/O activity including network & file access
+When used in a Kubernetes environment, Tetragon is Kubernetes-aware - that is, it understands Kubernetes identities such as namespaces, pods and so-on - so that security event detection can be configured in relation to individual workloads.
+  - https://tetragon.io/docs/overview/
+- Kubernetes Goat - Kubernetes Goat is an interactive Kubernetes security learning playground. It has intentionally vulnerable by design scenarios to showcase the common misconfigurations, real-world vulnerabilities, and security issues in Kubernetes clusters, containers, and cloud native environments.
+  - https://madhuakula.com/kubernetes-goat/docs/
+- KubeHound - A Kubernetes attack graph tool allowing automated calculation of attack paths between assets in a cluster
+  - https://github.com/DataDog/KubeHound
+- Peirates - Peirates, a Kubernetes penetration tool, enables an attacker to escalate privilege and pivot through a Kubernetes cluster. It automates known techniques to steal and collect service account tokens, secrets, obtain further code execution, and gain control of the cluster.
+  - https://github.com/inguardians/peirates
+- rakkess - Review Access - kubectl plugin to show an access matrix for server resources
+  - https://github.com/corneliusweig/rakkess
+- Kube or Fake? - You'll be given 5 Kubernetes terms generated by ChatGPT - some are real, some are fake. Try to tell them apart!
+  - https://kube-or-fake.raftt.io/
+
+
+
+### **Vulnerability**
+- SonarQube
+  - https://www.sonarqube.org/
+- 
+
+### **Cryptography**
+- Let's Encrypt
+  - https://letsencrypt.org/
+- CyberChef - A simple, intuitive web app for analysing and decoding data without having to deal with complex tools or programming languages
+  - https://gchq.github.io/CyberChef/
+- CyberChef Recipes
+  - https://github.com/mattnotmax/cyberchef-recipes
+
+### **Coding Utilities**
+- Postman
+  - https://www.postman.com/
+- JSON Editor Online
+  - https://jsoneditoronline.org/
+- MIT App Inventor
+  - https://appinventor.mit.edu/
+- jq - Like `sed` for JSON
+  - https://stedolan.github.io/jq/
+- Rubular - A Ruby regular expression editor
+  - https://rubular.com/
+- Resource Hacker - A freeware resource compiler & decompiler for Windows applications
+  - http://www.angusj.com/resourcehacker/
+- Pretty Errors - Prettifies Python exception output to make it legible
+  - https://github.com/onelivesleft/PrettyErrors
+- Web Check - many checks ran against a URL
+  - https://web-check.as93.net/
+- sql-practice
+  - https://www.sql-practice.com/
+- Mode - Learn to answer questions with data using SQL. No coding experience necessary.
+  - https://mode.com/sql-tutorial
+- SQLBolt - Welcome to SQLBolt, a series of interactive lessons and exercises designed to help you quickly learn SQL right in your browser.
+  - https://sqlbolt.com/
+- DataLemur - Practice SQL Interview and Data Science Interview questions on DataLemur.
+  - https://datalemur.com/
+- SQL Tutorial
+  - https://www.w3schools.com/sql/
+
+### **OSINT (Open Source Intelligence)**
+- Have I Been Pwned?
+  - https://haveibeenpwned.com/
+- IntelTechniques - Created as a supplement to the book Open Source Intelligence Techniques, 9th Edition and the IntelTechniques online OSINT training 
+  - https://inteltechniques.com/tools/
+- Smap - Replica of nmap which uses shodan.io's free API for port scanning
+  - https://github.com/s0md3v/Smap
+- FBI-Tools - Collection of OSINT resources
+  - https://github.com/danieldurnea/FBI-tools?fbclid=IwAR0HPIbs5cFiOC-7M93iYnwI7r4BgOJrY8hf_1BWLfuysKCm816Fp8u-a4E
+- Start.ME Toolkit - Collection of OSINT resources
+  - https://start.me/p/W1AXYo/toolkit
+- EchoTrail - Windows file search
+  - https://www.echotrail.io/
+- Spiderfoot - Integrates with just about every data source available
+  - https://github.com/smicallef/spiderfoot
+- OSINT Tools - Collection of OSINT resources
+  - https://www.osinttechniques.com/osint-tools.html
+- OpenPhish - Timely, accurate, relevant phishing intelligence
+  - https://openphish.com/
+- Wannabrowser - Simulate any browser
+  - https://www.wannabrowser.net/
+- Url2Png - Capture snapshots of any website, right in your app, quickly and reliably
+  - https://www.url2png.com/
+- Mihari - OSINT based threat hunting
+  - https://github.com/ninoseki/mihari
+- SPF Record - The SPF or Sender Policy Framework is intended to prevent spoofing of sender addresses in emails
+  - https://www.spf-record.com/
+- MX Toolbox - This test will list MX records for a domain in priority order
+  - https://mxtoolbox.com/
+- How to find user's review on Google Maps by Gmail address
+  - https://www.reddit.com/r/OSINT/comments/iaqvdm/how_to_find_users_reviews_on_google_maps_by_gmail/
+- TWINT - Twitter Intelligence Tool
+  - https://github.com/twintproject/twint
+- Gitrecon - OSINT tool to get information from a Github or Gitlab profile and find user's email addresses leaked on commits
+  - https://github.com/GONZOsint/gitrecon
+- Oblivion - Focused in real time monitoring of new data leaks, notifying if the credentials of the user has been leaked out
+  - https://github.com/loseys/Oblivion
+- TweetDeck - Show multiple Twitter feeds in one browser page
+  - https://tweetdeck.twitter.com
+- PublicWWW - perform searches on alphanumeric snippet, signature or keyword in the web pages HTML, JS and CSS code
+  - https://publicwww.com/
+- Wigle - All the networks. Found by Everyone.
+  - https://wigle.net/
+- Shodan - Search Engine for the Internet of Everything
+  - https://www.shodan.io/
+- Hunter.io - lets you find professional email addresses in seconds and connect with the people that matter for your business
+  - https://hunter.io/
+- Censys - provides a comprehensive profile the IT assets on the internet
+  - https://search.censys.io/
+- Spokeo - search by name, phone, address, or email to confidentially lookup information about people you know
+  - https://www.spokeo.com/
+- Wireshark OUI Lookup - provides an easy way to look up OUIs and other MAC address prefixes
+  - https://www.wireshark.org/tools/oui-lookup.html
+- Malware Archaeology - some cheat sheets to help you do logging well and so the needed data we all need is there when we look
+  - https://www.malwarearchaeology.com/cheat-sheets
+- Epieos - retrieve information linked to an email address, without notifying its user
+  - https://epieos.com/
+- WhatsMyName - allows you to enumerate usernames across many websites
+  - https://whatsmyname.app/
+- crt.sh - certificate search
+  - https://crt.sh/
+- OSINT Framework
+  - https://osintframework.com/
+- MalAPI.io - maps Windows APIs to common techniques used by malware
+  - https://malapi.io/
+- Flight Radar 24 - Live air traffic tracking
+  - https://www.flightradar24.com/35.12,-78.9/6
+- Goblin Tools - AI to help with simple things like verbiage or to-do lists
+  - https://goblin.tools/
+- TraceLabs OSINT VM - The Trace Labs team created a specialized OSINT VM specifically to bring together the most effective OSINT tools and customized scripts we saw being used during our Search Party CTF’s. Inspired by the infamous Buscador VM, the Trace Labs OSINT VM was built in a similar way, to enable OSINT investigators participating in the Trace Labs Search Party CTF’s a quick way to get started and have access to the most popular OSINT tools and scripts all neatly packaged under one roof.
+  - https://github.com/tracelabs/tlosint-vm/releases
+  - https://gitlab.com/kalilinux/build-scripts/kali-vm
+
+### **Miscellaneous**
+- PaperCall - Manage call for papers and talk submissions
+  - https://www.papercall.io/
+- Xenocrates - GIAC Certification Indexing Tool
+  - https://github.com/bioless/Xenocrates
+- Chrome Dark Reader - Dark mode for websites in Chrome
+  - https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh?hl=en-US
+- RootTheBox - CTF Scoring Engine
+  - https://github.com/moloch--/RootTheBox
+- Slack Dark Mode
+  - https://slack.com/blog/productivity/dark-mode-for-slack-desktop
+- BalenaEtcher - Flash OS images to SD cards & USB drives, safely and easily
+  - https://www.balena.io/etcher/
+- Profile Pic Maker - Make an awesome profile picture from any photo
+  - https://pfpmaker.com/
+- Coggle - Mind map
+  - https://coggle.it/?lang=en-US
+- FOG Project - A free open-source network computer cloning and management solution
+  - https://fogproject.org/
+- Clonezilla - Partition and disk imaging/cloning program similar to True Image or Norton Ghost
+  - https://clonezilla.org/
+- Project Debloat - provides essentials users need to remove unwanted or non useful software from their devices
+  - https://github.com/KushagraKarira/Debloat
+- Microsoft PowerToys - set of utilities for power users to tune and streamline their Windows experience for greater productivity
+  - https://docs.microsoft.com/en-us/windows/powertoys/
+- NIST 800 & 1800 Technical Series Publication Database 
+  - https://elysium-core.notion.site/NIST-800-1800-Technical-Series-Publication-Database-44cd1ddc1bc240bd9dee7da574776889
+- ConwaysLife - Conway's game of life is a cellular automation game simply known as Life
+  - https://github.com/AleksaZatezalo/ConwaysLife
+- Fake Name Generator
+  - https://www.fakenamegenerator.com/gen-random-us-nl.php
+- Big Ass data Broker Opt Out List
+  - https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List
+- DLP Test - DLPTest.com is a testing resource for testing data loss prevention (DLP) software to test functionality. If DLP has been installed and configured correctly, DLP Test can demonstrate that sensitive data is protected when DLP is in blocking mode. Data loss prevention has traditionally been divided into three categories: Data in Use (DIU), Data at Rest (DAR), and Data in Motion (DIM). DLPTest.com currently offers features to test Data in Use and Data in Motion.
+  - https://dlptest.com/
+- Audacity - Audacity is an easy-to-use, multi-track audio editor and recorder for Windows, macOS, GNU/Linux and other operating systems.
+Audacity is free, open source software.
+  - https://www.audacityteam.org/
+- OBS Studio - Free and open source software for video recording and live streaming.
+  - https://obsproject.com/
+- Capture - Whether for work, home, or play, TechSmith Capture provides a simple way to take and share images and videos of your screen. Jing has transitioned to Capture.
+  - https://www.techsmith.com/jing-tool.html
+- CamStudio - CamStudio is a desktop software for Windows computers that can record all on-screen video and audio activity, creating industry-standard AVI video files and optionally turn those into lean, mean, bandwidth-friendly Streaming Flash videos (SWFs) using its built-in SWF Producer.
+  - https://camstudio.org/
+- Beyond Compare - Beyond Compare is the popular choice for data comparison.  Compare folders, text files, images, and tables.  Review differences efficiently and merge changes with confidence.
+  - https://www.scootersoftware.com/
+- Awesome SEcurity GRC - This is a list of resources for security GRC folks.
+  - https://github.com/Arudjreis/awesome-security-GRC
+- Aperisolve - Aperi'Solve is an online platform which performs layer analysis on image. The platform also uses zsteg, steghide, outguess, exiftool, binwalk, foremost and strings for deeper steganography analysis. The platform supports the following images format: .png, .jpg, .gif, .bmp, .jpeg, .jfif, .jpe, .tiff...
+  - https://www.aperisolve.com/
+- DTMF Decoder - Convert dialtone to numbers
+  https://dtmf.netlify.app/
+- Cult of the Party Parrot
+  - https://cultofthepartyparrot.com/
+- Hugo - Hugo is a fast and modern static site generator written in Go, and designed to make website creation fun again.
+  - https://gohugo.io/about/
+  - https://github.com/matcornic/hugo-theme-learn
+-
+

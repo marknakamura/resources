@@ -1,3 +1,8 @@
+  - https://training.zeropointsecurity.co.uk/courses/csharp-for-n00bs
+- Rust for n00bs - An introduction to Rust fundamentals
+  - https://training.zeropointsecurity.co.uk/courses/rust-for-n00bs
+
+### **Certifications**
 - CCCure - Computer-Based Tutorials, MP3 Files, Practice Quizzes
   - https://cccure.education/home
 - CompTIA Academic Store
