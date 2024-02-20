@@ -1,6 +1,11 @@
-# **Resources**
 
-# **Table of Contents**
+
+#
+01Resources
+
+
+#
+02Table-of-Contents
 
 - [General](#general)
 - [Reading, Watching, & Listening](#reading-watching--listening)
@@ -40,7 +45,9 @@
 - [Fun Projects](#fun-projects)
 
  
-## **General**
+
+#
+03General
 - Book of Secret Knowledge - Inspiring Lists, the biggest collection of resources
   - https://github.com/trimstray/the-book-of-secret-knowledge#inspiring-lists-toc
 - Awesome GPT Agents - The "Awesome GPTs (Agents) Repo" represents an initial effort to compile a comprehensive list of GPT agents focused on cybersecurity (offensive and defensive), created by the community.
@@ -56,15 +63,21 @@
 - Guide to Detecting Ransomware as a Service - A comprehensive guide to detecting Ransomware-as-a-Service using Logpoint
   - https://www.logpoint.com/en/blog/guide-to-detecting-ransomware-as-a-service/
 
-## **Reading, Watching, & Listening**
 
-### **Books**
+#
+04Reading-Watching-&-Listening
+
+
+#
+05Books
 - Building Virtual Machine Labs: A Hands-On Guide
   - https://www.amazon.com/Building-Virtual-Machine-Labs-Hands/dp/1546932631
 - Detecting Fake Events in Azure Sign-in Logs
   - https://www.inversecos.com/2023/01/detecting-fake-events-in-azure-sign-in.html
 
-### **Online Articles & Blogs**
+
+#
+06Online-Articles-&-Blogs
 - DFIR and Threat Hunting
   - http://findingbad.blogspot.com/
 - Hunting with Splunk: The Basics
@@ -157,7 +170,9 @@
 - EDR Bypass : Retrieving Syscall ID with Hell's Gate, Halo's Gate, FreshyCalls and Syswhispers2
   - https://alice.climent-pommeret.red/posts/direct-syscalls-hells-halos-syswhispers2/
 
-### **Videos**
+
+#
+07Videos
 - MITRE ATT&CK: The Play at Home Edition
   - https://www.youtube.com/watch?v=wlJElPA0xqY
 - Splunk for Security Investigation: Command and Control Analysis
@@ -189,16 +204,22 @@
 - [wazuh] this Cybersecurity Platform is FREE
   - https://www.youtube.com/watch?app=desktop&v=i68atPbB8uQ&feature=youtu.be
 
-### **Podcasts**
+
+#
+08Podcasts
 - Uncovering Hidden Risks
   - https://www.radio.com/podcasts/uncovering-hidden-risks-45444
 - 
 
-### **Big Data**
+
+#
+09Big-Data
 - Information is Beautiful
   - https://informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/
 - 
-### **Twitter Handles to Follow**
+
+#
+10-Twitter-Handles-to-Follow
 
 @Volexity
 - A security firm providing Incident Response, Proactive Threat Assessments, Trusted Advisory, and Threat Intelligence
@@ -254,9 +275,13 @@
 @ArsenalRecon
 - Developers of #DFIR weapons which include Arsenal Image Mounter, Hibernation Recon, & Registry Recon. Arm Yourself!
 
-## **Training**
 
-### **Cyber Security**
+#
+11-Training
+
+
+#
+12-Cyber-Security
 - VulnHub - Vulnerable Machines
   - https://www.vulnhub.com/
 - TryHackMe - Red & Blue Team Training
@@ -328,7 +353,9 @@
 - HackTricks - Welcome to the wiki where you will find each hacking trick/technique/whatever I have learnt from CTFs, real life apps, reading researches, and news.
   - https://book.hacktricks.xyz/welcome/readme
 
-### **Cloud Training**
+
+#
+13-Cloud-Training
 - AWS CIRT announces the release of five publicly available workshops
   - https://aws.amazon.com/blogs/security/aws-cirt-announces-the-release-of-five-publicly-available-workshops/
 - SANS Cloud Free Tools
@@ -345,7 +372,9 @@
   - https://github.com/lazzslayer/Breaking-Into-The-Cloud-Slides
 
 
-### **Microsoft**
+
+#
+14-Microsoft
 - Microsoft Learning
   - https://docs.microsoft.com/en-us/learn/
 - GCP - Chronicle Learning Portal
@@ -353,15 +382,21 @@
 - Microsoft 365 Developer Program - Get an instant sandbox preconfigured with sample data, including Teams Developer Portal, and start developing on the Microsoft 365 platform.
   - https://developer.microsoft.com/en-us/microsoft-365/dev-program
 
-### **CTFs (Capture the Flag)**
+
+#
+15-CTFs-(Capture-the-Flag)
 - OWASP Juice Shop - OWASP Juice Shop is probably the most modern and sophisticated insecure web application! It can be used in security trainings, awareness demos, CTFs and as a guinea pig for security tools! Juice Shop encompasses vulnerabilities from the entire OWASP Top Ten along with many other security flaws found in real-world applications!
   - https://owasp.org/www-project-juice-shop/
 
-### **Walkthroughs**
+
+#
+16-Walkthroughs
 - MalwareTEch Beginner Malware Reversing Challenges
   - https://medium.com/@davidagilman/malwaretech-beginner-malware-reversing-challenges-strings-walkthrough-9be8b234ddba
 
-### **Coding**
+
+#
+17-Coding
 - Programming with Python - Python for Beginners
   - https://www.youtube.com/watch?v=jFCNu1-Xdsw&list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6
 - PowerShell vs Python Reference
@@ -385,7 +420,9 @@
 - Rust for n00bs - An introduction to Rust fundamentals
   - https://training.zeropointsecurity.co.uk/courses/rust-for-n00bs
 
-### **Certifications**
+
+#
+18-Certifications
 - CCCure - Computer-Based Tutorials, MP3 Files, Practice Quizzes
   - https://cccure.education/home
 - CompTIA Academic Store
@@ -396,9 +433,13 @@
 With ReconNess you can put all your learning effort only on how to exploit the targets using one specific kind of vulnerability for example and at the same time you are sure that your #recon is good and organized.
   - https://github.com/reconness/reconness
 
-## **Tools**
 
-### **Red Team**
+#
+19-Tools
+
+
+#
+20-Red-Team
 - Pypykatz - Python Mimikatz
   - https://github.com/skelsec/pypykatz
 - Red_Team - Red Team Scripts
@@ -563,7 +604,9 @@ With ReconNess you can put all your learning effort only on how to exploit the t
 - ReleaseTheHounds - Tool to interact with BloodHound CE API.
   - https://github.com/deletehead/ReleaseTheHounds
 
-### **Blue Team**
+
+#
+21-Blue-Team
 - HFish Honeypot Platform
   - https://hackingpassion.com/hfish-a-honeypot-platform/
 - Malboxes - Prebuilt Malware Analysis Windows Boxes
@@ -814,14 +857,18 @@ With ReconNess you can put all your learning effort only on how to exploit the t
 - Incident Response Plan Template
   - https://github.com/CyberSecurityUP/information-security-relatory/blob/master/Incident%20Response%20Plan%20Template.docx
 
-### **Purple Team**
+
+#
+22-Purple-Team
 - Seclab - This repo aims to provide a lightly-automated starting point for creating virtual labs for security research. To accomplish this, we rely on 4 technologies
   - https://github.com/mttaggart/seclab
 - ransomware-simulator - The goal of this repository is to provide a simple, harmless way to check your AV's protection on ransomware.
   https://github.com/NextronSystems/ransomware-simulator/
 
 
-### **Ransomware-Specific**
+
+#
+23-Ransomware-Specific
 - ransomwatch - provides a group index, recent DLS posts, group profiles, and statistic/graph page
   - https://ransomwatch.telemetry.ltd/#/
 - Ransom Look - provides a group index, forum and market links, a listing of data leaks, telegram messages, and statistic/graph pages
@@ -843,7 +890,9 @@ With ReconNess you can put all your learning effort only on how to exploit the t
 - BlackSky Cloud Hacking - BlackSky is our new set of pentesting labs for business which is built on AWS, Google Cloud Platform, and Microsoft Azure for cloud hacking. Train your employees in cloud security!
   - https://www.hackthebox.com/blog/BlackSky-cloud-hacking
 
-### **Cloud**
+
+#
+24-Cloud
 - Nextcloud
   - https://nextcloud.com
 - Vultr - IaaS (Infrastructure as a Service)
@@ -858,7 +907,9 @@ With ReconNess you can put all your learning effort only on how to exploit the t
   - https://github.com/SpecterOps/TierZeroTable
 
 
-### **Automation & Containers**
+
+#
+25-Automation-&-Containers
 - Apache Airflow
   - https://airflow.apache.org/
 - Rancher - Kubernetes Orchestrator
@@ -887,12 +938,16 @@ When used in a Kubernetes environment, Tetragon is Kubernetes-aware - that is, i
 
 
 
-### **Vulnerability**
+
+#
+26-Vulnerability
 - SonarQube
   - https://www.sonarqube.org/
 - 
 
-### **Cryptography**
+
+#
+27-Cryptography
 - Let's Encrypt
   - https://letsencrypt.org/
 - CyberChef - A simple, intuitive web app for analysing and decoding data without having to deal with complex tools or programming languages
@@ -900,7 +955,9 @@ When used in a Kubernetes environment, Tetragon is Kubernetes-aware - that is, i
 - CyberChef Recipes
   - https://github.com/mattnotmax/cyberchef-recipes
 
-### **Coding Utilities**
+
+#
+28-Coding-Utilities
 - Postman
   - https://www.postman.com/
 - JSON Editor Online
@@ -928,7 +985,9 @@ When used in a Kubernetes environment, Tetragon is Kubernetes-aware - that is, i
 - SQL Tutorial
   - https://www.w3schools.com/sql/
 
-### **OSINT (Open Source Intelligence)**
+
+#
+29-OSINT-(Open-Source-Intelligence)
 - Have I Been Pwned?
   - https://haveibeenpwned.com/
 - IntelTechniques - Created as a supplement to the book Open Source Intelligence Techniques, 9th Edition and the IntelTechniques online OSINT training 
@@ -1001,7 +1060,9 @@ When used in a Kubernetes environment, Tetragon is Kubernetes-aware - that is, i
   - https://github.com/tracelabs/tlosint-vm/releases
   - https://gitlab.com/kalilinux/build-scripts/kali-vm
 
-### **Miscellaneous**
+
+#
+30-Miscellaneous
 - PaperCall - Manage call for papers and talk submissions
   - https://www.papercall.io/
 - Xenocrates - GIAC Certification Indexing Tool
@@ -1060,7 +1121,9 @@ Audacity is free, open source software.
   - https://github.com/matcornic/hugo-theme-learn
 -
 
-## **System Administration**
+
+#
+31-System-Administration
 - Chocolatey - The Package Manager for Windows
   - https://chocolatey.org/
 - SadServers - Troubleshooting Scenarios
@@ -1068,7 +1131,9 @@ Audacity is free, open source software.
 
 
 
-### **Linux**
+
+#
+32-Linux
 - Glances - Curses-based System Monitoring Tool for Linux
   - https://www.tecmint.com/glances-an-advanced-real-time-system-monitoring-tool-for-linux/amp/
 - dd - How to use dd in Linux without destroying your disk
@@ -1077,23 +1142,33 @@ Audacity is free, open source software.
   - https://www.digi77.com/linux-kodachi/
 - 
 
-### **Microsoft Documentation**
+
+#
+33-Microsoft-Documentation
 - Privilege Constants (Authorization) - Privileges determine the type of system operations that a user account can perform
   - https://docs.microsoft.com/en-us/windows/win32/secauthz/privilege-constants
 
-### **Directory Tools**
+
+#
+34-Directory-Tools
 - OpenLDAP
   - https://www.openldap.org/
 - BadBlood - BadBlood by Secframe fills a Microsoft Active Directory Domain with a structure and thousands of objects. The output of the tool is a domain similar to a domain in the real world. After BadBlood is ran on a domain, security analysts and engineers can practice using tools to gain an understanding and prescribe to securing Active Directory.
   - https://github.com/davidprowe/BadBlood
 
-### **Web**
+
+#
+35-Web
 - Varnish - web application accelerator also known as a caching HTTP reverse proxy
   - https://varnish-cache.org/intro/
 
-## **Network Administration**
 
-### **Emulation & Training**
+#
+36-Network-Administration
+
+
+#
+37-Emulation-&-Training
 - GNS3
   - https://www.gns3.com/
   - https://github.com/GNS3
@@ -1110,10 +1185,5 @@ Audacity is free, open source software.
 - Network-segmentation-cheat-sheet - This project was created to publish the best practices for segmentation of the corporate network of any company. In general, the schemes in this project are suitable for any company.
   - https://github.com/sergiomarotco/Network-segmentation-cheat-sheet
 
-## **Fun Projects**
-- XKCD Password Generator - Flexible and scriptable strong password generator
-  - https://github.com/redacted/XKCD-password-generator
-- TOFFEE Project - Collection of Linux-based open-source projects
-  - https://www.the-toffee-project.org/
 
-
+#

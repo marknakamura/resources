@@ -1,0 +1,72 @@
+- Have I Been Pwned?
+  - https://haveibeenpwned.com/
+- IntelTechniques - Created as a supplement to the book Open Source Intelligence Techniques, 9th Edition and the IntelTechniques online OSINT training 
+  - https://inteltechniques.com/tools/
+- Smap - Replica of nmap which uses shodan.io's free API for port scanning
+  - https://github.com/s0md3v/Smap
+- FBI-Tools - Collection of OSINT resources
+  - https://github.com/danieldurnea/FBI-tools?fbclid=IwAR0HPIbs5cFiOC-7M93iYnwI7r4BgOJrY8hf_1BWLfuysKCm816Fp8u-a4E
+- Start.ME Toolkit - Collection of OSINT resources
+  - https://start.me/p/W1AXYo/toolkit
+- EchoTrail - Windows file search
+  - https://www.echotrail.io/
+- Spiderfoot - Integrates with just about every data source available
+  - https://github.com/smicallef/spiderfoot
+- OSINT Tools - Collection of OSINT resources
+  - https://www.osinttechniques.com/osint-tools.html
+- OpenPhish - Timely, accurate, relevant phishing intelligence
+  - https://openphish.com/
+- Wannabrowser - Simulate any browser
+  - https://www.wannabrowser.net/
+- Url2Png - Capture snapshots of any website, right in your app, quickly and reliably
+  - https://www.url2png.com/
+- Mihari - OSINT based threat hunting
+  - https://github.com/ninoseki/mihari
+- SPF Record - The SPF or Sender Policy Framework is intended to prevent spoofing of sender addresses in emails
+  - https://www.spf-record.com/
+- MX Toolbox - This test will list MX records for a domain in priority order
+  - https://mxtoolbox.com/
+- How to find user's review on Google Maps by Gmail address
+  - https://www.reddit.com/r/OSINT/comments/iaqvdm/how_to_find_users_reviews_on_google_maps_by_gmail/
+- TWINT - Twitter Intelligence Tool
+  - https://github.com/twintproject/twint
+- Gitrecon - OSINT tool to get information from a Github or Gitlab profile and find user's email addresses leaked on commits
+  - https://github.com/GONZOsint/gitrecon
+- Oblivion - Focused in real time monitoring of new data leaks, notifying if the credentials of the user has been leaked out
+  - https://github.com/loseys/Oblivion
+- TweetDeck - Show multiple Twitter feeds in one browser page
+  - https://tweetdeck.twitter.com
+- PublicWWW - perform searches on alphanumeric snippet, signature or keyword in the web pages HTML, JS and CSS code
+  - https://publicwww.com/
+- Wigle - All the networks. Found by Everyone.
+  - https://wigle.net/
+- Shodan - Search Engine for the Internet of Everything
+  - https://www.shodan.io/
+- Hunter.io - lets you find professional email addresses in seconds and connect with the people that matter for your business
+  - https://hunter.io/
+- Censys - provides a comprehensive profile the IT assets on the internet
+  - https://search.censys.io/
+- Spokeo - search by name, phone, address, or email to confidentially lookup information about people you know
+  - https://www.spokeo.com/
+- Wireshark OUI Lookup - provides an easy way to look up OUIs and other MAC address prefixes
+  - https://www.wireshark.org/tools/oui-lookup.html
+- Malware Archaeology - some cheat sheets to help you do logging well and so the needed data we all need is there when we look
+  - https://www.malwarearchaeology.com/cheat-sheets
+- Epieos - retrieve information linked to an email address, without notifying its user
+  - https://epieos.com/
+- WhatsMyName - allows you to enumerate usernames across many websites
+  - https://whatsmyname.app/
+- crt.sh - certificate search
+  - https://crt.sh/
+- OSINT Framework
+  - https://osintframework.com/
+- MalAPI.io - maps Windows APIs to common techniques used by malware
+  - https://malapi.io/
+- Flight Radar 24 - Live air traffic tracking
+  - https://www.flightradar24.com/35.12,-78.9/6
+- Goblin Tools - AI to help with simple things like verbiage or to-do lists
+  - https://goblin.tools/
+- TraceLabs OSINT VM - The Trace Labs team created a specialized OSINT VM specifically to bring together the most effective OSINT tools and customized scripts we saw being used during our Search Party CTF’s. Inspired by the infamous Buscador VM, the Trace Labs OSINT VM was built in a similar way, to enable OSINT investigators participating in the Trace Labs Search Party CTF’s a quick way to get started and have access to the most popular OSINT tools and scripts all neatly packaged under one roof.
+  - https://github.com/tracelabs/tlosint-vm/releases
+  - https://gitlab.com/kalilinux/build-scripts/kali-vm
+

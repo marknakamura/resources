@@ -1,0 +1,27 @@
+- Postman
+  - https://www.postman.com/
+- JSON Editor Online
+  - https://jsoneditoronline.org/
+- MIT App Inventor
+  - https://appinventor.mit.edu/
+- jq - Like `sed` for JSON
+  - https://stedolan.github.io/jq/
+- Rubular - A Ruby regular expression editor
+  - https://rubular.com/
+- Resource Hacker - A freeware resource compiler & decompiler for Windows applications
+  - http://www.angusj.com/resourcehacker/
+- Pretty Errors - Prettifies Python exception output to make it legible
+  - https://github.com/onelivesleft/PrettyErrors
+- Web Check - many checks ran against a URL
+  - https://web-check.as93.net/
+- sql-practice
+  - https://www.sql-practice.com/
+- Mode - Learn to answer questions with data using SQL. No coding experience necessary.
+  - https://mode.com/sql-tutorial
+- SQLBolt - Welcome to SQLBolt, a series of interactive lessons and exercises designed to help you quickly learn SQL right in your browser.
+  - https://sqlbolt.com/
+- DataLemur - Practice SQL Interview and Data Science Interview questions on DataLemur.
+  - https://datalemur.com/
+- SQL Tutorial
+  - https://www.w3schools.com/sql/
+

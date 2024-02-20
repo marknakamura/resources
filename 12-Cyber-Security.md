@@ -1,0 +1,71 @@
+- VulnHub - Vulnerable Machines
+  - https://www.vulnhub.com/
+- TryHackMe - Red & Blue Team Training
+  - https://tryhackme.com/
+- Boss of the SOC 2 (BOTSv2)
+  - https://github.com/splunk/botsv2
+  - https://www.splunk.com/en_us/blog/security/boss-of-the-soc-2-0-dataset-questions-and-answers-open-sourced-and-ready-for-download.html
+  - https://www.splunk.com/en_us/blog/security/boss-of-the-soc-scoring-server-questions-and-answers-and-dataset-open-sourced-and-ready-for-download.html
+- Malware-Traffic-Analysis - A source for packet capture files and malware samples
+  - http://malware-traffic-analysis.net/
+- CyberRange - Open-source Cyber Range blueprint (requires AWS credentials)
+  - https://github.com/secdevops-cuse/CyberRange
+- Darth Sidious - Building a lab, Hacking it, Defending it
+  - https://github.com/chryzsh/DarthSidious
+- PentesterLab - Hands-on web penetration testing labs
+  - https://pentesterlab.com/exercises?utm_campaign=Education%20Opportunities&amp;utm_content=109906156&amp;utm_medium=social&amp;utm_source=linkedin&amp;hss_channel=lcp-3182190
+- Binary Game - Simple game to learn how to count in binary/decimal
+  - https://studio.code.org/projects/applab/iukLbcDnzqgoxuu810unLw
+- OverTheWire - Wargames to learn and practice security concepts
+  - http://overthewire.org/wargames/
+- Snort - Network Security IDS/IPS
+  - https://www.snort.org/resources
+- Cisco Secure Network Analytics - YouTube channel to learn Cisco Secure Network Analytics
+  - https://www.youtube.com/c/Lancope/videos
+- Go Fuzz Yourself! Where do I even begin?!
+  - https://mikecurnow.com/2020/08/29/go-fuzz-yourself-where-do-i-even-begin/
+  - https://mikecurnow.com/wp-content/uploads/2021/03/FLUFFv1.2.pdf
+- RegexOne - Learn Regular Expressions with simple, interactive exercises
+  - https://regexone.com/
+- BlueTeam.Lab - Provide red and blue teams with the ability to deploy an ad-hoc detection lab to test various attacks and forensic artifacts on the latest Windows environment and get a SOC-like view into generated data
+  - https://github.com/op7ic/BlueTeam.Lab
+- MemLabs - Educational, introductory set of CTF-styled challenges which is aimed to encourage students, security researchers, and also CTF players to get started with the field of Memory Forensics
+  - https://github.com/stuxnet999/memlabs
+- RedHunt-OS - Virtual machine for adversary emulation and threat hunting
+  - https://github.com/redhuntlabs/RedHunt-OS
+- Palo Alto Veterans Program
+  - https://www.paloaltonetworks.com/about-us/veterans
+- Palo Alto Education Services
+  - https://www.paloaltonetworks.com/services/education#Fundamental_Training
+- DetectionLab -  Its primary purpose is to allow the user to quickly build a Windows domain that comes pre-loaded with security tooling and some best practices when it comes to system logging configurations
+  - https://github.com/clong/DetectionLab
+  - https://medium.com/@clong/introducing-detection-lab-61db34bed6ae
+- SlayerLabs - Advance your Pentesting skills with completely custom, purposely vulnerable lab networks
+  - https://slayerlabs.com/index.html#ranges
+- Digital Forensics Lab - Hands-on Digital Forensics Labs: designed for Students and Faculty
+  - https://github.com/frankwxu/digital-forensics-lab
+- Cyber Defenders - Our goal is to help the community practice with quality resources, use their time efficiently, and connect with fellow professionals
+  - https://cyberdefenders.org/blueteam-ctf-challenges/
+- Hack The Box Academy
+  - https://academy.hackthebox.com/
+- Learn NASM Assembly
+  - https://www.tutorialspoint.com/assembly_programming/index.htm
+- SOC Core Skills w/ John Strand - Cover core security skills all Security Operation Center (SOC) analysts need to have
+  - https://www.antisyphontraining.com/soc-core-skills-w-john-strand/
+- Cisco Talent Bridge Program - Cybersecurity
+  - https://www.netacad.com/careers/talent-bridge-program/veterans
+- Introduction to Malware Analysis
+  - https://mikecybersec.medium.com/introduction-to-malware-analysis-accfbf32ecf5
+- DFIR Diva - Digital Forensics and Incident Response Blog Geared Toward Beginners
+  - https://dfirdiva.com/free-and-affordable-training/?utm_campaign=Community&utm_content=169031515&utm_medium=social&utm_source=linkedin&hss_channel=lcp-3182190
+- Antisyphon Pay What You Can - In order to help more people get started in their InfoSec journey, a select group of our courses are priced on a pay scale. This gives students an opportunity to take hands-on, cutting-edge courses by well-known names in the community, regardless of their financial position.
+  - https://www.antisyphontraining.com/pay-what-you-can/
+- LimaCharlie EDR Lab - 
+  - https://github.com/GriffinDuck/LimaCharlie-EDR-Lab/blob/main/README.md
+- Hoppers Roppers - This is our flagship course, designed to give a beginner in the cyber security field the knowledge and skills required to be successful in the field. It teaches security fundamentals along with building a strong technical foundation that you will build on for years to come.
+  - https://hoppersroppers.org/training
+- Burp Suite Certified Practitioner Exam Study - This is my study notes with over a 100 PortSwigger Academy labs that I used to pass the Burp Suite Certified Practitioner Exam and obtained my BSCP qualification.
+  - https://github.com/botesjuan/Burp-Suite-Certified-Practitioner-Exam-Study
+- HackTricks - Welcome to the wiki where you will find each hacking trick/technique/whatever I have learnt from CTFs, real life apps, reading researches, and news.
+  - https://book.hacktricks.xyz/welcome/readme
+
