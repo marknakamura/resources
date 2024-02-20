@@ -10,15 +10,19 @@ def create_file(filename, text):
     
 def test_header(line):
     count_hashtags = 0
-    for each_letter in line:
-        if each_letter == "#":
+    range = 0
+    for each in line:
+        if each == "#":
             count_hashtags = count_hashtags + 1
+        range = range + 1
+        if range > 4:
+             break
     if count_hashtags == 2:
-        return 2
-    elif count_hashtags == 1:
-        return 1
-    elif count_hashtags == 0:
-        return 0
+        return "h2"
+    if count_hashtags == 1:
+        return "h1"
+    else:
+        return False
 
         
 with open("./Resources.md", "r") as file:
@@ -27,18 +31,19 @@ with open("./Resources.md", "r") as file:
     filename = ""
     lines = file.readlines()
     for each in lines:
-        if test_header(each) == 2:
+        if test_header(each) == "h2":
             print(filename)
             print(text_to_add)
             if filename != "":
                  create_file(filename, text_to_add)
+                # continue
             cleaned = break_and_clean(each)
             keeping_count = keeping_count+1
             if keeping_count < 10:
                 filename = "0" + str(keeping_count) + cleaned + ".md"
             else:
                 filename = str(keeping_count) + "-" + cleaned + ".md"
-            text_to_add = ""
+            text_to_add = "" + filename + "\n"
         else:
             text_to_add = text_to_add + each
 
