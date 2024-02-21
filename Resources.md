@@ -1,3 +1,5 @@
+# **DEPRECATED - ALL RESOURCES MOVED TO index.md**
+
 # **Resources**
 
 # **Table of Contents**
