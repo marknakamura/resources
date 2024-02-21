@@ -33,6 +33,7 @@ body {
   width: $menuWidth;
   line-height: 2;
   overflow-y: scroll;
+  scrollbar-color: #0f120f;
   max-height: 100vh;  
   ul {
     list-style: none;
