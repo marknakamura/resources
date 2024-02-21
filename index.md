@@ -5,8 +5,6 @@
 ## **General**
 - Book of Secret Knowledge - Inspiring Lists, the biggest collection of resources
   - https://github.com/trimstray/the-book-of-secret-knowledge#inspiring-lists-toc
-- Awesome GPT Agents - The "Awesome GPTs (Agents) Repo" represents an initial effort to compile a comprehensive list of GPT agents focused on cybersecurity (offensive and defensive), created by the community.
-  - https://github.com/fr0gger/Awesome-GPT-Agents
 - IPPSEC - enter search terms to find resources
   - https://ippsec.rocks/?#
 - List of open source resources
@@ -15,8 +13,7 @@
   - https://github.com/0x90n/InfoSec-Black-Friday
 - Roadmap.sh - community effort to create roadmaps, guides and other educational content to help guide the developers in picking up the path and guide their learnings (includes cyber security)
   - https://roadmap.sh/
-- Guide to Detecting Ransomware as a Service - A comprehensive guide to detecting Ransomware-as-a-Service using Logpoint
-  - https://www.logpoint.com/en/blog/guide-to-detecting-ransomware-as-a-service/
+
 
 ## **Reading, Watching, & Listening**
 
@@ -945,6 +942,8 @@ With ReconNess you can put all your learning effort only on how to exploit the t
     - https://www.ransomware.live/#/
 - ransomware-simulator - The goal of this repository is to provide a simple, harmless way to check your AV's protection on ransomware.
     - https://github.com/NextronSystems/ransomware-simulator/
+- Guide to Detecting Ransomware as a Service - A comprehensive guide to detecting Ransomware-as-a-Service using Logpoint
+  - https://www.logpoint.com/en/blog/guide-to-detecting-ransomware-as-a-service/
 
 ### **Cloud**
 - Nextcloud
@@ -1010,6 +1009,8 @@ When used in a Kubernetes environment, Tetragon is Kubernetes-aware - that is, i
     - https://github.com/ollama-ui/ollama-ui
 - cmndcntrl - Easiest Local AI Setup
     - https://cmndcntrl.notion.site/Easiest-Local-AI-Setup-Updated-1e2afcb8d48047b99954a7a4bc65cd0f
+  - Awesome GPT Agents - The "Awesome GPTs (Agents) Repo" represents an initial effort to compile a comprehensive list of GPT agents focused on cybersecurity (offensive and defensive), created by the community.
+  - https://github.com/fr0gger/Awesome-GPT-Agents
 
 ### **Vulnerability**
 - SonarQube
