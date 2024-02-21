@@ -1,12 +1,3 @@
-# Resources
-This repository is simply a list of helpful things that I've seen and saved over the years.
-
-It contains tools, training, videos, articles, social media handles, etc.
-
-This is quite a long list, which continues to grow as I continue my own learning journey.  I believe there's something here for everyone.
-
-Note that some references in this list may be in a section that could be in multiple categories
-Note that there may be some duplicates or small typos
 
 
 # **Master List**
