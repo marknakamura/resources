@@ -196,7 +196,7 @@
 ### **Big Data**
 - Information is Beautiful
   - https://informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/
-- 
+
 ### **Twitter Handles to Follow**
 
 @Volexity
