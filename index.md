@@ -5,7 +5,10 @@ It contains tools, training, videos, articles, social media handles, etc.
 
 This is quite a long list, which continues to grow as I continue my own learning journey.  I believe there's something here for everyone.
 
-If you'd like to contribute, please feel free to drop a comment.
+- Note that some references in this list may be in a section that could be in multiple categories
+- Note that there may be some duplicates or small typos
+- If you'd like to contribute or report an issue:
+    - [Create Issue](https://github.com/marknakamura/resources/issues){:target="_blank"}
 
 # **Master List**
  
@@ -125,6 +128,24 @@ If you'd like to contribute, please feel free to drop a comment.
   - https://bishopfox.com/blog/edr-bypass-with-lolbins
 - EDR Bypass : Retrieving Syscall ID with Hell's Gate, Halo's Gate, FreshyCalls and Syswhispers2
   - https://alice.climent-pommeret.red/posts/direct-syscalls-hells-halos-syswhispers2/
+- Red Canary Blog - Why adversaries have their heads in the cloud
+    - https://redcanary.com/blog/cloud-attack-techniques/?utm_source=linkedin&utm_medium=social
+- Red Team Fails - “Oops my bad I ruined the operation”, a story on how to fail a red team assessment.
+    - https://swisskyrepo.github.io/Drink-Love-Share-Rump/
+- Specter Ops - Subverting Trust in Windows
+    - https://specterops.io/wp-content/uploads/sites/3/2022/06/SpecterOps_Subverting_Trust_in_Windows.pdf
+- Kali Linux Tutorials
+    - https://kalilinuxtutorials.com
+- Red Teaming Army
+    - https://lsecqt.github.io/Red-Teaming-Army/
+- Exploit Reversing
+    - https://exploitreversing.com/
+- How to protect Evilginx using Cloudflare and HTML Obfuscation
+    - https://www.jackphilipbutton.com/post/how-to-protect-evilginx-using-cloudflare-and-html-obfuscation
+- MalwareTech - Bypassing EDRs With EDR-Preloading
+    - https://malwaretech.com/2024/02/bypassing-edrs-with-edr-preload.html
+- Linux Distributions Vulnerable – Glibc Flaw Grants Root Access to Unprivileged Users
+    - https://www.blackhatethicalhacking.com/news/linux-distributions-vulnerable-glibc-flaw-grants-root-access-to-unprivileged-users/
 
 ### **Videos**
 - MITRE ATT&CK: The Play at Home Edition
@@ -157,6 +178,10 @@ If you'd like to contribute, please feel free to drop a comment.
   - https://www.youtube.com/watch?v=SWzxoK6DAE4
 - [wazuh] this Cybersecurity Platform is FREE
   - https://www.youtube.com/watch?app=desktop&v=i68atPbB8uQ&feature=youtu.be
+- MultiON: Your Personal AI Agent - Rabbit R1 Alternative That is FREE!
+    - https://www.youtube.com/watch?v=nU3OulGPvH8
+- I Analyzed My Finance With Local LLMs
+    - https://www.youtube.com/watch?v=h_GTxRFYETY
 
 ### **Podcasts**
 - Uncovering Hidden Risks
@@ -296,6 +321,17 @@ If you'd like to contribute, please feel free to drop a comment.
   - https://github.com/botesjuan/Burp-Suite-Certified-Practitioner-Exam-Study
 - HackTricks - Welcome to the wiki where you will find each hacking trick/technique/whatever I have learnt from CTFs, real life apps, reading researches, and news.
   - https://book.hacktricks.xyz/welcome/readme
+- Antisyphon Training - Linux Forensics w/ Hal Pomeranz
+    - https://www.antisyphontraining.com/on-demand-courses/linux-forensics-w-hal-pomeranz/
+- Applied Network Defense - Effective Information Security Writing
+    - https://www.networkdefense.io/library/effective-information-security-writing-26037/55514/about/
+- DFIR Training - Free Training
+    - https://www.dfir.training/free-training/formal-courses
+- Red Labs Platform - Beta
+    - https://redlabs.enterprisesecurity.io/
+- GOAD on proxmox - Some people asked me how to install GOAD on proxmox. I wanted to document this a long time ago but never found the time to do this. Now it will be done ;)
+    - https://mayfly277.github.io/posts/GOAD-on-proxmox-part1-install/
+
 
 ### **Cloud Training**
 - AWS CIRT announces the release of five publicly available workshops
@@ -312,7 +348,10 @@ If you'd like to contribute, please feel free to drop a comment.
   - https://learn.chronicle.security/
 - Breaking Into The Cloud
   - https://github.com/lazzslayer/Breaking-Into-The-Cloud-Slides
-
+- Awesome Cloud Security Labs - A list of free cloud native security learning labs. Includes CTF, self-hosted workshops, guided vulnerability labs, and research labs.
+    - https://github.com/iknowjason/Awesome-CloudSec-Labs
+- AWS Security Pentesting - For those of you interested in learning AWS Security and Penetration Testing, here is my best list of shared and compiled resources:
+    - https://github.com/redskycyber/Cloud-Security/blob/main/AWS-Security-Pentesting-Resources.md
 
 ### **Microsoft**
 - Microsoft Learning
@@ -531,6 +570,55 @@ With ReconNess you can put all your learning effort only on how to exploit the t
   - https://trickster0.github.io/
 - ReleaseTheHounds - Tool to interact with BloodHound CE API.
   - https://github.com/deletehead/ReleaseTheHounds
+- Unprotect Project - This project aims to provide Malware Analysts and Defenders with actionable insights and detection capabilities to shorten their response times.
+    - https://unprotect.it/
+- RedTeamRecipe - Welcome to RedTeamRecipe, your ultimate destination for mastering the art of red teaming operations. Whether you're a seasoned red team professional or just stepping into the realm of cybersecurity, our blog is your go-to resource for valuable tips, tricks, and insights into the world of adversarial simulations.
+    - https://redteamrecipe.com/
+- Electron_Shell - Developing A More Covert Remote Access Trojan (RAT) Tool By Leveraging Electron's Features For Command Injection And Combining It With Remote Control Methods
+    - https://www.kitploit.com/2023/09/electronshell-developing-more-covert.html
+- Aladdin - Payload Generation Technique That Allows The Deseriallization Of A .NET Payload And Execution In Memory
+    - https://www.kitploit.com/2023/12/aladdin-payload-generation-technique.html
+- DynastyPersist - A Linux Persistence Tool!
+    - https://www.kitploit.com/2023/11/dynastypersist-linux-persistence-tool.html
+- MaccaroniC2 - A PoC Command And Control Framework That Utilizes The Powerful AsyncSSH
+    - https://www.kitploit.com/2023/11/maccaronic2-poc-command-and-control.html
+- LightsOut - Generate An Obfuscated DLL That Will Disable AMSI And ETW
+    - https://www.kitploit.com/2023/11/lightsout-generate-obfuscated-dll-that.html
+- Forbidden-Buster - A Tool Designed To Automate Various Techniques In Order To Bypass HTTP 401 And 403 Response Codes And Gain Access To Unauthorized Areas In The System
+    - https://www.kitploit.com/2023/11/forbidden-buster-tool-designed-to.html
+- AutoRecon - AutoRecon is a multi-threaded network reconnaissance tool which performs automated enumeration of services. It is intended as a time-saving tool for use in CTFs and other penetration testing environments (e.g. OSCP). It may also be useful in real-world engagements.
+    - https://github.com/Tib3rius/AutoRecon
+- WADComs - WADComs is an interactive cheat sheet, containing a curated list of offensive security tools and their respective commands, to be used against Windows/AD environments.
+    - https://wadcoms.github.io/
+- BloodHoundAD / SharpHound
+    - https://github.com/BloodHoundAD/SharpHound
+- ARTToolkit - If you hate constantly looking up the right command to use against a Windows, Linux, or Active Directory environment (like me), this project should help ease the pain a bit. Just select what information you currently have related to the victim machine (passwords, usernames, services, etc.), and it will display a list of tools you can try against the machine, along with a template command for easy copy/pasting. See the full list of items and filters.
+    - https://arttoolkit.github.io/
+- CrimsonEDR -CrimsonEDR is an open-source project engineered to identify specific malware patterns, offering a tool for honing skills in circumventing Endpoint Detection and Response (EDR). By leveraging diverse detection methods, it empowers users to deepen their understanding of security evasion tactics.
+    - https://github.com/Helixo32/CrimsonEDR
+- LoFP -The goal is to enable both red and blue teams with this information. Red teams can use this information to blend in, whereas blue teams can use this information to assess weak spots in their detection logic. Interestingly, it can also assist during alert triage and investigation, by looking at common FPs around certain techniques and data sources.
+    - https://br0k3nlab.com/LoFP/
+- LOLOL - Living Off the Living Off the Land - A great collection of resources to thrive off the land
+    - https://lolol.farm/
+- GOAD - Game of Active Directory, GOAD is a pentest active directory LAB project. The purpose of this lab is to give pentesters a vulnerable Active directory environment ready to use to practice usual attack techniques.
+    - https://github.com/Orange-Cyberdefense/GOAD
+- Rust Red Ops - RustRedOps is a repository that houses various tools and projects related to Red Team operations, developed in Rust. This repository is dedicated to providing effective and efficient tools for security professionals and penetration testers who want to perform security assessments and intrusion tests.
+    - https://github.com/joaoviictorti/RustRedOps
+- DavRelayUp - A quick and dirty port of KrbRelayUp with modifications to allow for NTLM relay from webdav to LDAP in order to streamline the abuse of the following attack primitive:
+    - https://github.com/Dec0ne/DavRelayUp
+- PowerSploit - PowerSploit is a collection of Microsoft PowerShell modules that can be used to aid penetration testers during all phases of an assessment. PowerSploit is comprised of the following modules and scripts.
+    - https://github.com/PowerShellMafia/PowerSploit
+- Inveigh - Inveigh is a cross-platform .NET IPv4/IPv6 machine-in-the-middle tool for penetration testers. This repo contains the primary C# version as well as the legacy PowerShell version.
+    - https://github.com/Kevin-Robertson/Inveigh
+- Red Team PowerShell Scripts
+    - https://github.com/cyberguideme/RedTeamPowershellScripts
+- SOAPHound - SOAPHound is a .NET data collector tool, which collects Active Directory data via the Active Directory Web Services (ADWS) protocol.
+    - https://github.com/FalconForceTeam/SOAPHound
+- MultiDump - MultiDump is a post-exploitation tool written in C for dumping and extracting LSASS memory discreetly, without triggering Defender alerts, with a handler written in Python.
+    - https://github.com/Xre0uS/MultiDump
+- All-In-One Mobile Pentesting Manager - Introducing a comprehensive Notion template tailored for managing your mobile penetration testing endeavors. This template empowers you to proficiently oversee your pentesting projects, organize client information, and construct a repository of crucial findings.
+    - https://st3v3nss.gumroad.com/l/mobile-pentest-manager
+
 
 ### **Blue Team**
 - HFish Honeypot Platform
@@ -782,13 +870,63 @@ With ReconNess you can put all your learning effort only on how to exploit the t
   - https://ruler-project.github.io/ruler-project/
 - Incident Response Plan Template
   - https://github.com/CyberSecurityUP/information-security-relatory/blob/master/Incident%20Response%20Plan%20Template.docx
+- ChopChopGo - ChopChopGo inspired by Chainsaw utilizes Sigma rules for forensics artifact recovery, enabling rapid and comprehensive analysis of logs and other artifacts to identify potential security incidents and threats on Linux.
+    - https://github.com/M00NLIG7/ChopChopGo
+- ProjectDiscovery
+    - https://projectdiscovery.io/
+- Douglas-042 - Powershell Script To Help Speed ​​Up Threat Hunting Incident Response Processes
+    - https://www.kitploit.com/2023/12/douglas-042-powershell-script-to-help.html
+- Crawlector - Threat Hunting Framework Designed For Scanning Websites For Malicious Objects
+    - https://www.kitploit.com/2023/11/crawlector-threat-hunting-framework.html
+- The Elastic Container Project
+    - https://github.com/peasead/elastic-container
+- T3SF - Technical Tabletop Exercises Simulation Framework
+    - https://www.kitploit.com/2023/12/t3sf-technical-tabletop-exercises.html
+    - https://t3sf.readthedocs.io/en/latest/T3SF.Gui.html
+- AzureInspect - Following in the steps of 365Inspect, Soteria created AzureInspect to assist in furthering the state of Azure security by authoring a PowerShell script that automates the security assessment of Microsoft Azure environments.
+    - https://github.com/soteria-security/AzureInspect
+- ThreatModeler - THREATMODELER LAUNCHES FREE, LITE COMMUNITY EDITION
+    - https://threatmodeler.com/threatmodeler-launches-free-lite-community-edition/
+- IriusRisk Community - Get your free lifetime subscription to IriusRisk Community Edition - zero commitment access to Threat Modeling tools and libraries.
+    - https://www.iriusrisk.com/community
+- AADInternals - The ultimate Entra ID (Azure AD) / Microsoft 365 hacking and admin toolkit
+    - https://aadinternals.com/aadinternals/
+- Blue Team Guides - "Blue Team Guides" isn’t merely a documentation; it is a meticulously crafted arsenal of knowledge, insights, and guidelines that is shaped to empower organizations in crafting, enhancing, and refining their cybersecurity defenses. It serves as a repository of defensive strategies, operating procedures, tool guides, and case studies, embodying the collective wisdom derived from seasoned cybersecurity professionals and numerous real-world operations.
+    - https://book.blueteamguides.com/
+- lcvr-to-timesketch - Pipeline to process LimaCharlie Velociraptor Triages in Timesketch
+    - https://github.com/shortstack/lcvr-to-timesketch
+- BitsParser - A python tool to parse Windows Background Intelligent Transfer Service database files.
+    - https://github.com/fireeye/BitsParser
+- LogBoost -LogBoost is a command-line utility originally designed to enrich IP addresses in CSV files with ASN, Country and City information provided by the freely available MaxMind GeoLite2 DBs.
+    - https://github.com/joeavanzato/LogBoost
+- msticpy - MSTIC Jupyter and Python Security Tools; msticpy is a library for InfoSec investigation and hunting in Jupyter Notebooks.
+    - https://github.com/microsoft/msticpy
+- BLUESPAWN - BLUESPAWN is an active defense and endpoint detection and response tool which means it can be used by defenders to quickly detect, identify, and eliminate malicious activity and malware across a network.
+    - https://github.com/ION28/BLUESPAWN
+- PSGumshoe - PSGumshoe is a Windows PowerShell module for the collection of OS and domain artifacts for the purposes of performing live response, hunt, and forensics.
+    - https://github.com/PSGumshoe/PSGumshoe
+- Revoke-Obfuscation - Revoke-Obfuscation is a PowerShell v3.0+ compatible PowerShell obfuscation detection framework.
+    - https://github.com/danielbohannon/Revoke-Obfuscation
+- EventList - EventList is a tool to help improving your Audit capabilities and to help to build your Security Operation Center. It helps you combining Microsoft Security Baselines with MITRE ATT&CK and generating hunting queries for your SIEM system - regardless of the product used.
+    - https://github.com/miriamxyra/EventList
 
 ### **Purple Team**
 - Seclab - This repo aims to provide a lightly-automated starting point for creating virtual labs for security research. To accomplish this, we rely on 4 technologies
   - https://github.com/mttaggart/seclab
-- ransomware-simulator - The goal of this repository is to provide a simple, harmless way to check your AV's protection on ransomware.
-  https://github.com/NextronSystems/ransomware-simulator/
-
+- PurpleOps - An Open-Source Self-Hosted Purple Team Management Web Application
+    - https://www.kitploit.com/2023/09/purpleops-open-source-self-hosted.html
+- VECTR - VECTR is a tool that facilitates tracking of your red and blue team testing activities to measure detection and prevention capabilities across different attack scenarios. VECTR provides the ability to create assessment groups, which consist of a collection of Campaigns and supporting Test Cases to simulate adversary threats. Campaigns can be broad and span activities across the kill chain, from initial compromise to privilege escalation and lateral movement and so on, or can be narrow in scope to focus on specific detection layers, tools, and infrastructure. VECTR is designed to promote full transparency between offense and defense, encourage training between team members, and improve detection & prevention success rates across the environment.
+    - https://docs.vectr.io/
+-  PlumHound - Released as Proof of Concept for Blue and Purple teams to more effectively use BloodHoundAD in continual security life-cycles by utilizing the BloodHoundAD pathfinding engine to identify Active Directory security vulnerabilities resulting from business operations, procedures, policies and legacy service operations.
+    - https://github.com/PlumHound/PlumHound
+- Purple Team Exercise Tools
+    - https://medium.com/@jorgeorchilles/purple-team-exercise-tools-a85187ce341
+- ENTERPRISE PURPLE TEAMING: AN EXPLORATORY QUALITATIVE STUDY
+    - https://github.com/ch33r10/EnterprisePurpleTeaming
+- Automated Emulation - Automated Emulation is a simple terraform template creating a customizable and automated Breach and Attack Simulation lab. It automically builds the following resources hosted in AWS:
+    - https://github.com/iknowjason/AutomatedEmulation
+- PurpleCloud - Identity lab supporting Azure AD and Active Directory enterprise deployment with SIEM in Azure. Easily build your own Pentest / Red Team / Cyber Range in Azure cloud. PurpleCloud was created as a platform for researching Azure Identity. This repository contains python scripts that function as Terraform code generators for different use cases. Each script creates independent resources that don't depend on the others.
+    - https://www.purplecloud.network/
 
 ### **Ransomware-Specific**
 - ransomwatch - provides a group index, recent DLS posts, group profiles, and statistic/graph page
@@ -811,6 +949,12 @@ With ReconNess you can put all your learning effort only on how to exploit the t
   - https://github.com/BishopFox/cloudfox
 - BlackSky Cloud Hacking - BlackSky is our new set of pentesting labs for business which is built on AWS, Google Cloud Platform, and Microsoft Azure for cloud hacking. Train your employees in cloud security!
   - https://www.hackthebox.com/blog/BlackSky-cloud-hacking
+- RedPacket Security
+    - https://www.redpacketsecurity.com/category/ransomware/
+- ransomware.live - Tracking ransomware's victims since April 2022
+    - https://www.ransomware.live/#/
+- ransomware-simulator - The goal of this repository is to provide a simple, harmless way to check your AV's protection on ransomware.
+    - https://github.com/NextronSystems/ransomware-simulator/
 
 ### **Cloud**
 - Nextcloud
@@ -825,6 +969,8 @@ With ReconNess you can put all your learning effort only on how to exploit the t
   - https://learn.microsoft.com/en-us/azure/active-directory/architecture/security-operations-introduction
 - TierZeroTable - Table of AD and Azure assets and whether they belong to Tier Zero.
   - https://github.com/SpecterOps/TierZeroTable
+- AWS Incident Response - This project explores useful CloudTrail events that support incident response and detection of misconfigurations. Documenting the queries and filters used to identify these CloudTrail events helps to:
+    - https://easttimor.github.io/aws-incident-response/
 
 
 ### **Automation & Containers**
@@ -854,12 +1000,32 @@ When used in a Kubernetes environment, Tetragon is Kubernetes-aware - that is, i
 - Kube or Fake? - You'll be given 5 Kubernetes terms generated by ChatGPT - some are real, some are fake. Try to tell them apart!
   - https://kube-or-fake.raftt.io/
 
-
+### **AI/ML**
+- modal - API reference
+    - https://modal.com/docs/reference
+    - https://modal.com/
+- MultiOn - We create AI that handles tasks in the background of any digital experience.
+    - https://www.multion.ai/
+- Modal - DoppelBot: Replace your CEO with an LLM
+    - https://modal.com/docs/examples/slack-finetune
+- LibreChat - LibreChat brings together the future of assistant AIs with the revolutionary technology of OpenAI's ChatGPT. Celebrating the original styling, LibreChat gives you the ability to integrate multiple AI models. It also integrates and enhances original client features such as conversation and message search, prompt templates and plugins.
+    - https://docs.librechat.ai/index.html
+- AI Exploits - With the release of this repository, Protect AI hopes to demystify to the Information Security community what practical attacks against AI/Machine Learning infrastructure look like in the real world and raise awareness to the amount of vulnerable components that currently exist in the AI/ML ecosystem.
+    - https://github.com/protectai/ai-exploits
+- HSF Training - Machine Learning on GPU - Is a GPU available?
+    - https://hsf-training.github.io/hsf-training-ml-gpu-webpage/02-whichgpu/index.html
+- HSF Training - Machine Learning on GPU - Run time comparisons
+    - https://hsf-training.github.io/hsf-training-ml-gpu-webpage/05-runtime/index.html
+- ollma-ui - Just a simple HTML UI for Ollama
+    - https://github.com/ollama-ui/ollama-ui
+- cmndcntrl - Easiest Local AI Setup
+    - https://cmndcntrl.notion.site/Easiest-Local-AI-Setup-Updated-1e2afcb8d48047b99954a7a4bc65cd0f
 
 ### **Vulnerability**
 - SonarQube
   - https://www.sonarqube.org/
-- 
+- inTheWild - We believe the ability to react within hours to vulnerabilities that are being exploited is the foundation to all vulnerability management.
+    - https://inthewild.io/feed
 
 ### **Cryptography**
 - Let's Encrypt
@@ -969,6 +1135,10 @@ When used in a Kubernetes environment, Tetragon is Kubernetes-aware - that is, i
 - TraceLabs OSINT VM - The Trace Labs team created a specialized OSINT VM specifically to bring together the most effective OSINT tools and customized scripts we saw being used during our Search Party CTF’s. Inspired by the infamous Buscador VM, the Trace Labs OSINT VM was built in a similar way, to enable OSINT investigators participating in the Trace Labs Search Party CTF’s a quick way to get started and have access to the most popular OSINT tools and scripts all neatly packaged under one roof.
   - https://github.com/tracelabs/tlosint-vm/releases
   - https://gitlab.com/kalilinux/build-scripts/kali-vm
+- FBI-tools
+    - https://github.com/danieldurnea/FBI-tools
+- Forensic OSINT
+    - https://www.forensicosint.com/pricing
 
 ### **Miscellaneous**
 - PaperCall - Manage call for papers and talk submissions
@@ -1027,7 +1197,8 @@ Audacity is free, open source software.
 - Hugo - Hugo is a fast and modern static site generator written in Go, and designed to make website creation fun again.
   - https://gohugo.io/about/
   - https://github.com/matcornic/hugo-theme-learn
--
+- CIRT.net - Default passwords
+    - https://cirt.net/passwords
 
 ## **System Administration**
 - Chocolatey - The Package Manager for Windows
