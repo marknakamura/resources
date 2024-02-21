@@ -16,7 +16,6 @@ body {
   width: 93vw;
   height: 100vh;
   overflow: auto;
-  scrollbar-color: #b5e853 #060a06;
 }
 
 body {
@@ -35,7 +34,6 @@ body {
   width: $menuWidth;
   line-height: 2;
   overflow-y: scroll;
-  scrollbar-color: #b5e853 #060a06;
   max-height: 100vh;  
   ul {
     list-style: none;
