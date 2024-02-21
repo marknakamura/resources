@@ -32,7 +32,8 @@ body {
   padding: 1em;
   width: $menuWidth;
   line-height: 2;
-  overflow: scroll;  
+  overflow: scroll;
+  max-height: 100vh;  
   ul {
     list-style: none;
     padding: 0;
